@@ -13,7 +13,7 @@
     </message>
     <message id="RECEIPTID_CATEGORY">
         <source>RECEIPTID_CATEGORY</source>
-        <translation type="unfinished">Twitch/Values</translation>
+        <translation type="unfinished">Twitch/Twitch/Values</translation>
     </message>
     <message id="RECEIPTID_EQUAL_NAME">
         <source>RECEIPTID_EQUAL_NAME</source>
@@ -69,6 +69,77 @@
     </message>
     <message id="RECEIPTID_EQUAL_PARAM1_TOOLTIP">
         <source>RECEIPTID_EQUAL_PARAM1_TOOLTIP</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>Method: TwitchApiReceiptID</name>
+    <message id="TWITCHAPIRECEIPTID_NAME">
+        <source>TWITCHAPIRECEIPTID_NAME</source>
+        <translation type="unfinished">Receipt ID</translation>
+    </message>
+    <message id="TWITCHAPIRECEIPTID_TOOLTIP">
+        <source>TWITCHAPIRECEIPTID_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIRECEIPTID_CATEGORY">
+        <source>TWITCHAPIRECEIPTID_CATEGORY</source>
+        <translation type="unfinished">Twitch/Twitch Api/Values</translation>
+    </message>
+    <message id="TWITCHAPIRECEIPTID_EQUAL_NAME">
+        <source>TWITCHAPIRECEIPTID_EQUAL_NAME</source>
+        <comment>Class/Bus: ReceiptID  Event/Method: Equal</comment>
+        <translation>Equal</translation>
+    </message>
+    <message id="TWITCHAPIRECEIPTID_EQUAL_TOOLTIP">
+        <source>TWITCHAPIRECEIPTID_EQUAL_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIRECEIPTID_EQUAL_CATEGORY">
+        <source>TWITCHAPIRECEIPTID_EQUAL_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIRECEIPTID_EQUAL_OUT_NAME">
+        <source>TWITCHAPIRECEIPTID_EQUAL_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIRECEIPTID_EQUAL_OUT_TOOLTIP">
+        <source>TWITCHAPIRECEIPTID_EQUAL_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIRECEIPTID_EQUAL_IN_NAME">
+        <source>TWITCHAPIRECEIPTID_EQUAL_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIRECEIPTID_EQUAL_IN_TOOLTIP">
+        <source>TWITCHAPIRECEIPTID_EQUAL_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIRECEIPTID_EQUAL_OUTPUT0_NAME">
+        <source>TWITCHAPIRECEIPTID_EQUAL_OUTPUT0_NAME</source>
+        <comment>C++ Type: bool</comment>
+        <translation>Boolean</translation>
+    </message>
+    <message id="TWITCHAPIRECEIPTID_EQUAL_OUTPUT0_TOOLTIP">
+        <source>TWITCHAPIRECEIPTID_EQUAL_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIRECEIPTID_EQUAL_PARAM0_NAME">
+        <source>TWITCHAPIRECEIPTID_EQUAL_PARAM0_NAME</source>
+        <comment>Simple Type: ReceiptID C++ Type: ReceiptID*</comment>
+        <translation>ReceiptID: 0</translation>
+    </message>
+    <message id="TWITCHAPIRECEIPTID_EQUAL_PARAM0_TOOLTIP">
+        <source>TWITCHAPIRECEIPTID_EQUAL_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIRECEIPTID_EQUAL_PARAM1_NAME">
+        <source>TWITCHAPIRECEIPTID_EQUAL_PARAM1_NAME</source>
+        <comment>Simple Type: ReceiptID C++ Type: const ReceiptID&amp;</comment>
+        <translation>ReceiptID: 1</translation>
+    </message>
+    <message id="TWITCHAPIRECEIPTID_EQUAL_PARAM1_TOOLTIP">
+        <source>TWITCHAPIRECEIPTID_EQUAL_PARAM1_TOOLTIP</source>
         <translation></translation>
     </message>
 </context>
@@ -1659,7 +1730,7 @@
     </message>
     <message id="PRODUCTDATARETURNVALUE_CATEGORY">
         <source>PRODUCTDATARETURNVALUE_CATEGORY</source>
-        <translation type="unfinished">Twitch/Values</translation>
+        <translation type="unfinished">Twitch/Twitch/Values</translation>
     </message>
     <message id="PRODUCTDATARETURNVALUE_TOSTRING_NAME">
         <source>PRODUCTDATARETURNVALUE_TOSTRING_NAME</source>
@@ -1721,7 +1792,7 @@
     </message>
     <message id="PRESENCESTATUSVALUE_CATEGORY">
         <source>PRESENCESTATUSVALUE_CATEGORY</source>
-        <translation type="unfinished">Twitch/Values</translation>
+        <translation type="unfinished">Twitch/Twitch/Values</translation>
     </message>
     <message id="PRESENCESTATUSVALUE_TOSTRING_NAME">
         <source>PRESENCESTATUSVALUE_TOSTRING_NAME</source>
@@ -2669,7 +2740,7 @@
     </message>
     <message id="FRIENDRECOMMENDATIONVALUE_CATEGORY">
         <source>FRIENDRECOMMENDATIONVALUE_CATEGORY</source>
-        <translation type="unfinished">Twitch/Values</translation>
+        <translation type="unfinished">Twitch/Twitch/Values</translation>
     </message>
     <message id="FRIENDRECOMMENDATIONVALUE_TOSTRING_NAME">
         <source>FRIENDRECOMMENDATIONVALUE_TOSTRING_NAME</source>
@@ -8066,7 +8137,7 @@
     </message>
     <message id="PRESENCESETTINGSVALUE_CATEGORY">
         <source>PRESENCESETTINGSVALUE_CATEGORY</source>
-        <translation type="unfinished">Twitch/Values</translation>
+        <translation type="unfinished">Twitch/Twitch/Values</translation>
     </message>
     <message id="PRESENCESETTINGSVALUE_TOSTRING_NAME">
         <source>PRESENCESETTINGSVALUE_TOSTRING_NAME</source>
@@ -8673,7 +8744,7 @@
     </message>
     <message id="USERINFOVALUE_CATEGORY">
         <source>USERINFOVALUE_CATEGORY</source>
-        <translation type="unfinished">Twitch/Values</translation>
+        <translation type="unfinished">Twitch/Twitch/Values</translation>
     </message>
     <message id="USERINFOVALUE_TOSTRING_NAME">
         <source>USERINFOVALUE_TOSTRING_NAME</source>
@@ -8949,7 +9020,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
     </message>
     <message id="GETFRIENDVALUE_CATEGORY">
         <source>GETFRIENDVALUE_CATEGORY</source>
-        <translation type="unfinished">Twitch/Values</translation>
+        <translation type="unfinished">Twitch/Twitch/Values</translation>
     </message>
     <message id="GETFRIENDVALUE_TOSTRING_NAME">
         <source>GETFRIENDVALUE_TOSTRING_NAME</source>
@@ -9011,7 +9082,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
     </message>
     <message id="FRIENDSTATUSVALUE_CATEGORY">
         <source>FRIENDSTATUSVALUE_CATEGORY</source>
-        <translation type="unfinished">Twitch/Values</translation>
+        <translation type="unfinished">Twitch/Twitch/Values</translation>
     </message>
     <message id="FRIENDSTATUSVALUE_TOSTRING_NAME">
         <source>FRIENDSTATUSVALUE_TOSTRING_NAME</source>
@@ -9332,7 +9403,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
     </message>
     <message id="FRIENDREQUESTVALUE_CATEGORY">
         <source>FRIENDREQUESTVALUE_CATEGORY</source>
-        <translation type="unfinished">Twitch/Values</translation>
+        <translation type="unfinished">Twitch/Twitch/Values</translation>
     </message>
     <message id="FRIENDREQUESTVALUE_TOSTRING_NAME">
         <source>FRIENDREQUESTVALUE_TOSTRING_NAME</source>
@@ -9447,7 +9518,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
     </message>
     <message id="USERINFOLISTVALUE_CATEGORY">
         <source>USERINFOLISTVALUE_CATEGORY</source>
-        <translation type="unfinished">Twitch/Values</translation>
+        <translation type="unfinished">Twitch/Twitch/Values</translation>
     </message>
     <message id="USERINFOLISTVALUE_TOSTRING_NAME">
         <source>USERINFOLISTVALUE_TOSTRING_NAME</source>
@@ -9571,7 +9642,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
     </message>
     <message id="PURCHASERECEIPTRETURNVALUE_CATEGORY">
         <source>PURCHASERECEIPTRETURNVALUE_CATEGORY</source>
-        <translation type="unfinished">Twitch/Values</translation>
+        <translation type="unfinished">Twitch/Twitch/Values</translation>
     </message>
     <message id="PURCHASERECEIPTRETURNVALUE_TOSTRING_NAME">
         <source>PURCHASERECEIPTRETURNVALUE_TOSTRING_NAME</source>
@@ -17494,7 +17565,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
     </message>
     <message id="FOLLOWERRESULTVALUE_CATEGORY">
         <source>FOLLOWERRESULTVALUE_CATEGORY</source>
-        <translation type="unfinished">Twitch/Values</translation>
+        <translation type="unfinished">Twitch/Twitch/Values</translation>
     </message>
     <message id="FOLLOWERRESULTVALUE_TOSTRING_NAME">
         <source>FOLLOWERRESULTVALUE_TOSTRING_NAME</source>
@@ -23722,7 +23793,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
     </message>
     <message id="COMMUNITYINFOVALUE_CATEGORY">
         <source>COMMUNITYINFOVALUE_CATEGORY</source>
-        <translation type="unfinished">Twitch/Values</translation>
+        <translation type="unfinished">Twitch/Twitch/Values</translation>
     </message>
     <message id="COMMUNITYINFOVALUE_TOSTRING_NAME">
         <source>COMMUNITYINFOVALUE_TOSTRING_NAME</source>
@@ -28741,7 +28812,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
     </message>
     <message id="CHANNELTEAMVALUE_CATEGORY">
         <source>CHANNELTEAMVALUE_CATEGORY</source>
-        <translation type="unfinished">Twitch/Values</translation>
+        <translation type="unfinished">Twitch/Twitch/Values</translation>
     </message>
     <message id="CHANNELTEAMVALUE_TOSTRING_NAME">
         <source>CHANNELTEAMVALUE_TOSTRING_NAME</source>
@@ -28803,7 +28874,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
     </message>
     <message id="SUBSCRIBERVALUE_CATEGORY">
         <source>SUBSCRIBERVALUE_CATEGORY</source>
-        <translation type="unfinished">Twitch/Values</translation>
+        <translation type="unfinished">Twitch/Twitch/Values</translation>
     </message>
     <message id="SUBSCRIBERVALUE_TOSTRING_NAME">
         <source>SUBSCRIBERVALUE_TOSTRING_NAME</source>
@@ -28865,7 +28936,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
     </message>
     <message id="CHANNELINFOVALUE_CATEGORY">
         <source>CHANNELINFOVALUE_CATEGORY</source>
-        <translation type="unfinished">Twitch/Values</translation>
+        <translation type="unfinished">Twitch/Twitch/Values</translation>
     </message>
     <message id="CHANNELINFOVALUE_TOSTRING_NAME">
         <source>CHANNELINFOVALUE_TOSTRING_NAME</source>
@@ -30798,7 +30869,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
     </message>
     <message id="STARTCHANNELCOMMERCIALVALUE_CATEGORY">
         <source>STARTCHANNELCOMMERCIALVALUE_CATEGORY</source>
-        <translation type="unfinished">Twitch/Values</translation>
+        <translation type="unfinished">Twitch/Twitch/Values</translation>
     </message>
     <message id="STARTCHANNELCOMMERCIALVALUE_TOSTRING_NAME">
         <source>STARTCHANNELCOMMERCIALVALUE_TOSTRING_NAME</source>
@@ -30860,7 +30931,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
     </message>
     <message id="SUBSCRIBERBYUSERVALUE_CATEGORY">
         <source>SUBSCRIBERBYUSERVALUE_CATEGORY</source>
-        <translation type="unfinished">Twitch/Values</translation>
+        <translation type="unfinished">Twitch/Twitch/Values</translation>
     </message>
     <message id="SUBSCRIBERBYUSERVALUE_TOSTRING_NAME">
         <source>SUBSCRIBERBYUSERVALUE_TOSTRING_NAME</source>
@@ -30922,7 +30993,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
     </message>
     <message id="PURCHASEUPDATERETURNVALUE_CATEGORY">
         <source>PURCHASEUPDATERETURNVALUE_CATEGORY</source>
-        <translation type="unfinished">Twitch/Values</translation>
+        <translation type="unfinished">Twitch/Twitch/Values</translation>
     </message>
     <message id="PURCHASEUPDATERETURNVALUE_TOSTRING_NAME">
         <source>PURCHASEUPDATERETURNVALUE_TOSTRING_NAME</source>
@@ -36096,20 +36167,12 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
         <source>RANDOM_RANDOMPOINTINWEDGE_PARAM4_NAME</source>
         <translation></translation>
     </message>
-    <message id="RANDOM_RANDOMPOINTINARC_PARAM4_TOOLTIP">
-        <source>RANDOM_RANDOMPOINTINARC_PARAM4_TOOLTIP</source>
-        <translation></translation>
-    </message>
     <message id="RANDOM_RANDOMPOINTINWEDGE_PARAM5_NAME">
         <source>RANDOM_RANDOMPOINTINWEDGE_PARAM5_NAME</source>
         <translation></translation>
     </message>
     <message id="RANDOM_RANDOMPOINTINARC_PARAM5_TOOLTIP">
         <source>RANDOM_RANDOMPOINTINARC_PARAM5_TOOLTIP</source>
-        <translation></translation>
-    </message>
-    <message id="RANDOM_RANDOMPOINTINARC_TOOLTIP">
-        <source>RANDOM_RANDOMPOINTINARC_TOOLTIP</source>
         <translation></translation>
     </message>
 </context>
@@ -42103,7 +42166,6 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
         <source>WORLD_OVERLAPCAPSULE_OUTPUT1_NAME</source>
         <translation type="unfinished">Overlaps</translation>
     </message>
-    
     <message id="WORLD_SPHERECAST_NAME">
         <source>WORLD_SPHERECAST_NAME</source>
         <translation type="unfinished">Sphere Cast</translation>
@@ -42152,7 +42214,6 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
         <source>WORLD_SPHERECAST_OUTPUT4_NAME</source>
         <translation type="unfinished">EntityId</translation>
     </message>
-
     <message id="WORLD_BOXCAST_NAME">
         <source>WORLD_BOXCAST_NAME</source>
         <translation type="unfinished">Box Cast</translation>
@@ -42201,7 +42262,6 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
         <source>WORLD_BOXCAST_OUTPUT4_NAME</source>
         <translation type="unfinished">EntityId</translation>
     </message>
-
     <message id="WORLD_CAPSULECAST_NAME">
         <source>WORLD_CAPSULECAST_NAME</source>
         <translation type="unfinished">Capsule Cast</translation>
@@ -42242,10 +42302,6 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
         <source>WORLD_CAPSULECAST_OUTPUT1_NAME</source>
         <translation type="unfinished">Position</translation>
     </message>
-    <message id="WORLD_BOXCAST_OUTPUT2_NAME">
-        <source>WORLD_BOXCAST_OUTPUT2_NAME</source>
-        <translation type="unfinished">Normal</translation>
-    </message>
     <message id="WORLD_CAPSULECAST_OUTPUT3_NAME">
         <source>WORLD_CAPSULECAST_OUTPUT3_NAME</source>
         <translation type="unfinished">Distance</translation>
@@ -42266,15 +42322,15 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
         <translation type="unfinished">PhysX</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_SETCOLLISIONLAYER_TOOLTIP">
-        <source>COLLISIONFILTERINGBUS_SETCOLLISIONLAYER_TOOLTIP</source>       
+        <source>COLLISIONFILTERINGBUS_SETCOLLISIONLAYER_TOOLTIP</source>
         <translation type="unfinished">Sets the collision layer on a collider</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_SETCOLLISIONLAYER_NAME">
-        <source>COLLISIONFILTERINGBUS_SETCOLLISIONLAYER_NAME</source>       
+        <source>COLLISIONFILTERINGBUS_SETCOLLISIONLAYER_NAME</source>
         <translation type="unfinished">Set Collision Layer</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_SETCOLLISIONLAYER_PARAM0_NAME">
-        <source>COLLISIONFILTERINGBUS_SETCOLLISIONLAYER_PARAM0_NAME</source>       
+        <source>COLLISIONFILTERINGBUS_SETCOLLISIONLAYER_PARAM0_NAME</source>
         <translation type="unfinished">Layer Name</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_SETCOLLISIONLAYER_PARAM0_TOOLTIP">
@@ -42282,19 +42338,19 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
         <translation type="unfinished">The name of the layer to set. The layer name must exist in the PhysX Configuration otherwise this node will have no effect.</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_SETCOLLISIONLAYER_PARAM1_NAME">
-        <source>COLLISIONFILTERINGBUS_SETCOLLISIONLAYER_PARAM1_NAME</source>       
+        <source>COLLISIONFILTERINGBUS_SETCOLLISIONLAYER_PARAM1_NAME</source>
         <translation type="unfinished">Collider Tag</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_SETCOLLISIONLAYER_PARAM1_TOOLTIP">
-        <source>COLLISIONFILTERINGBUS_SETCOLLISIONLAYER_PARAM1_TOOLTIP</source>       
+        <source>COLLISIONFILTERINGBUS_SETCOLLISIONLAYER_PARAM1_TOOLTIP</source>
         <translation type="unfinished">Use this to target a specific collider on the entity. If left blank, all colliders will be updated.</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_GETCOLLISIONLAYERNAME_TOOLTIP">
-        <source>COLLISIONFILTERINGBUS_GETCOLLISIONLAYERNAME_TOOLTIP</source>       
+        <source>COLLISIONFILTERINGBUS_GETCOLLISIONLAYERNAME_TOOLTIP</source>
         <translation type="unfinished">Gets the collision layer on an entity. Note: multiple colliders on an entity are not supported.</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_GETCOLLISIONLAYERNAME_NAME">
-        <source>COLLISIONFILTERINGBUS_GETCOLLISIONLAYERNAME_NAME</source>       
+        <source>COLLISIONFILTERINGBUS_GETCOLLISIONLAYERNAME_NAME</source>
         <translation type="unfinished">Get Collision Layer Name</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_GETCOLLISIONLAYERNAME_OUTPUT0_NAME">
@@ -42306,11 +42362,11 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
         <translation type="unfinished">The name of the collision layer</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_GETCOLLISIONGROUPNAME_NAME">
-        <source>COLLISIONFILTERINGBUS_GETCOLLISIONGROUPNAME_NAME</source>       
+        <source>COLLISIONFILTERINGBUS_GETCOLLISIONGROUPNAME_NAME</source>
         <translation type="unfinished">Get Collision Group Name</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_GETCOLLISIONGROUPNAME_TOOLTIP">
-        <source>COLLISIONFILTERINGBUS_GETCOLLISIONGROUPNAME_TOOLTIP</source>       
+        <source>COLLISIONFILTERINGBUS_GETCOLLISIONGROUPNAME_TOOLTIP</source>
         <translation type="unfinished">Gets the collision group on an entity. Note: multiple colliders on an entity are not supported.</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_GETCOLLISIONGROUPNAME_OUTPUT0_NAME">
@@ -42322,15 +42378,15 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
         <translation type="unfinished">The name of the collision group</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_SETCOLLISIONGROUP_TOOLTIP">
-        <source>COLLISIONFILTERINGBUS_SETCOLLISIONGROUP_TOOLTIP</source>       
+        <source>COLLISIONFILTERINGBUS_SETCOLLISIONGROUP_TOOLTIP</source>
         <translation type="unfinished">Sets the collision group on a collider</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_SETCOLLISIONGROUP_NAME">
-        <source>COLLISIONFILTERINGBUS_SETCOLLISIONGROUP_NAME</source>       
+        <source>COLLISIONFILTERINGBUS_SETCOLLISIONGROUP_NAME</source>
         <translation type="unfinished">Set Collision Group</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_SETCOLLISIONGROUP_PARAM0_NAME">
-        <source>COLLISIONFILTERINGBUS_SETCOLLISIONGROUP_PARAM0_NAME</source>       
+        <source>COLLISIONFILTERINGBUS_SETCOLLISIONGROUP_PARAM0_NAME</source>
         <translation type="unfinished">Group Name</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_SETCOLLISIONGROUP_PARAM0_TOOLTIP">
@@ -42338,43 +42394,43 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
         <translation type="unfinished">The name of the group to set. The group name must exist in the PhysX Configuration otherwise this node will have no effect.</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_SETCOLLISIONGROUP_PARAM1_NAME">
-        <source>COLLISIONFILTERINGBUS_SETCOLLISIONGROUP_PARAM1_NAME</source>       
+        <source>COLLISIONFILTERINGBUS_SETCOLLISIONGROUP_PARAM1_NAME</source>
         <translation type="unfinished">Collider Tag</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_SETCOLLISIONGROUP_PARAM1_TOOLTIP">
-        <source>COLLISIONFILTERINGBUS_SETCOLLISIONGROUP_PARAM1_TOOLTIP</source>       
+        <source>COLLISIONFILTERINGBUS_SETCOLLISIONGROUP_PARAM1_TOOLTIP</source>
         <translation type="unfinished">Use this to target a specific collider on the entity. If left blank, all colliders will be updated.</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_TOOLTIP">
-        <source>COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_TOOLTIP</source>       
+        <source>COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_TOOLTIP</source>
         <translation type="unfinished">Toggles a collision layer on or off on a collision group.</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_NAME">
-        <source>COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_NAME</source>       
+        <source>COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_NAME</source>
         <translation type="unfinished">Toggle Collision Layer</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_PARAM0_NAME">
-        <source>COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_PARAM0_NAME</source>       
+        <source>COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_PARAM0_NAME</source>
         <translation type="unfinished">Layer Name</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_PARAM0_TOOLTIP">
-        <source>COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_PARAM0_TOOLTIP</source>       
+        <source>COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_PARAM0_TOOLTIP</source>
         <translation type="unfinished">The name of the layer to toggle. The layer name must exist in the PhysX Configuration otherwise this node will have no effect.</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_PARAM1_NAME">
-        <source>COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_PARAM1_NAME</source>       
+        <source>COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_PARAM1_NAME</source>
         <translation type="unfinished">Collider Tag</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_PARAM1_TOOLTIP">
-        <source>COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_PARAM1_TOOLTIP</source>       
+        <source>COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_PARAM1_TOOLTIP</source>
         <translation type="unfinished">Use this to target a specific collider on the entity. If left blank, all colliders will be updated.</translation>
     </message>
     <message id="COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_PARAM2_NAME">
-        <source>COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_PARAM2_NAME</source>       
+        <source>COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_PARAM2_NAME</source>
         <translation type="unfinished">Enabled</translation>
-    </message>    
+    </message>
     <message id="COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_PARAM2_TOOLTIP">
-        <source>COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_PARAM2_TOOLTIP</source>       
+        <source>COLLISIONFILTERINGBUS_TOGGLECOLLISIONLAYER_PARAM2_TOOLTIP</source>
         <translation type="unfinished">Toggles the layer on or off</translation>
     </message>
 </context>
@@ -42488,7 +42544,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
         <translation type="unfinished">Gets the inverse mass of the rigid body</translation>
     </message>
     <message id="RIGIDBODYREQUESTBUS_GETINVERSEMASS_OUTPUT0_NAME">
-        <source>RIGIDBODYREQUESTBUS_GETINVERSEMASS_OUTPUT0_NAME</source>        
+        <source>RIGIDBODYREQUESTBUS_GETINVERSEMASS_OUTPUT0_NAME</source>
         <translation type="unfinished">Inverse Mass</translation>
     </message>
     <message id="RIGIDBODYREQUESTBUS_GETINVERSEMASS_OUTPUT0_TOOLTIP">
@@ -42700,7 +42756,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
         <translation type="unfinished">Gets the linear damping of the rigid body</translation>
     </message>
     <message id="RIGIDBODYREQUESTBUS_GETLINEARDAMPING_OUTPUT0_NAME">
-        <source>RIGIDBODYREQUESTBUS_GETLINEARDAMPING_OUTPUT0_NAME</source>        
+        <source>RIGIDBODYREQUESTBUS_GETLINEARDAMPING_OUTPUT0_NAME</source>
         <translation type="unfinished">Damping</translation>
     </message>
     <message id="RIGIDBODYREQUESTBUS_GETLINEARDAMPING_OUTPUT0_TOOLTIP">
@@ -42733,7 +42789,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
         <translation type="unfinished">Gets the angular damping of the rigid body</translation>
     </message>
     <message id="RIGIDBODYREQUESTBUS_GETANGULARDAMPING_OUTPUT0_NAME">
-        <source>RIGIDBODYREQUESTBUS_GETANGULARDAMPING_OUTPUT0_NAME</source>        
+        <source>RIGIDBODYREQUESTBUS_GETANGULARDAMPING_OUTPUT0_NAME</source>
         <translation type="unfinished">Damping</translation>
     </message>
     <message id="RIGIDBODYREQUESTBUS_GETANGULARDAMPING_OUTPUT0_TOOLTIP">
@@ -42767,7 +42823,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
         <translation type="unfinished">Returns true if the rigid body is awake</translation>
     </message>
     <message id="RIGIDBODYREQUESTBUS_ISAWAKE_OUTPUT0_NAME">
-        <source>RIGIDBODYREQUESTBUS_ISAWAKE_OUTPUT0_NAME</source>        
+        <source>RIGIDBODYREQUESTBUS_ISAWAKE_OUTPUT0_NAME</source>
         <translation type="unfinished">Awake</translation>
     </message>
     <message id="RIGIDBODYREQUESTBUS_ISAWAKE_OUTPUT0_TOOLTIP">
@@ -42802,7 +42858,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
         <translation type="unfinished">Gets the sleep threshold of the rigid body</translation>
     </message>
     <message id="RIGIDBODYREQUESTBUS_GETSLEEPTHRESHOLD_OUTPUT0_NAME">
-        <source>RIGIDBODYREQUESTBUS_GETSLEEPTHRESHOLD_OUTPUT0_NAME</source>        
+        <source>RIGIDBODYREQUESTBUS_GETSLEEPTHRESHOLD_OUTPUT0_NAME</source>
         <translation type="unfinished">Threshold</translation>
     </message>
     <message id="RIGIDBODYREQUESTBUS_GETSLEEPTHRESHOLD_OUTPUT0_TOOLTIP">
@@ -42836,7 +42892,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
         <translation type="unfinished">Returns true if the body is kinematic</translation>
     </message>
     <message id="RIGIDBODYREQUESTBUS_ISKINEMATIC_OUTPUT0_NAME">
-        <source>RIGIDBODYREQUESTBUS_ISKINEMATIC_OUTPUT0_NAME</source>        
+        <source>RIGIDBODYREQUESTBUS_ISKINEMATIC_OUTPUT0_NAME</source>
         <translation type="unfinished">Kinematic</translation>
     </message>
     <message id="RIGIDBODYREQUESTBUS_ISKINEMATIC_OUTPUT0_TOOLTIP">
@@ -42922,14 +42978,14 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
         <translation type="unfinished">Gets the aabb in world space of the rigid body</translation>
     </message>
     <message id="RIGIDBODYREQUESTBUS_GETAABB_OUTPUT0_NAME">
-        <source>RIGIDBODYREQUESTBUS_GETAABB_OUTPUT0_NAME</source>        
+        <source>RIGIDBODYREQUESTBUS_GETAABB_OUTPUT0_NAME</source>
         <translation type="unfinished">AABB</translation>
     </message>
     <message id="RIGIDBODYREQUESTBUS_GETAABB_OUTPUT0_TOOLTIP">
         <source>RIGIDBODYREQUESTBUS_GETAABB_OUTPUT0_TOOLTIP</source>
         <translation type="unfinished">The aabb of the rigid body</translation>
     </message>
-</context>    
+</context>
 <context>
     <name>Handler: TriggerNotificationBus</name>
     <message id="HANDLER_TRIGGERNOTIFICATIONBUS_NAME">
@@ -42960,7 +43016,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
         <source>HANDLER_TRIGGERNOTIFICATIONBUS_ONTRIGGEREXIT_TOOLTIP</source>
         <translation type="unfinished">Triggered when another collider exits this trigger</translation>
     </message>
-</context>      
+</context>
 <context>
     <name>Handler: CollisionNotificationBus</name>
     <message id="HANDLER_COLLISIONNOTIFICATIONBUS_NAME">
@@ -43062,7 +43118,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
         <source>CHARACTERCONTROLLERREQUESTBUS_GETSLOPELIMITDEGREES_OUTPUT0_TOOLTIP</source>
         <translation type="unfinished">The maximum slope (in degrees) which the controller can ascend</translation>
     </message>
-        <message id="CHARACTERCONTROLLERREQUESTBUS_GETSTEPHEIGHT_NAME">
+    <message id="CHARACTERCONTROLLERREQUESTBUS_GETSTEPHEIGHT_NAME">
         <source>CHARACTERCONTROLLERREQUESTBUS_GETSTEPHEIGHT_NAME</source>
         <translation type="unfinished">Get Step Height</translation>
     </message>
@@ -43196,14 +43252,6 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
     <message id="PHYSXCHARACTERCONTROLLERREQUESTBUS_NAME">
         <source>PHYSXCHARACTERCONTROLLERREQUESTBUS_NAME</source>
         <translation type="unfinished">Character Controller (PhysX Specific)</translation>
-    </message>
-    <message id="CHARACTERCONTROLLERREQUESTBUS_TOOLTIP">
-        <source>CHARACTERCONTROLLERREQUESTBUS_TOOLTIP</source>
-        <translation type="unfinished">PhysX Character Controller Request Bus</translation>
-    </message>
-    <message id="CHARACTERCONTROLLERREQUESTBUS_CATEGORY">
-        <source>CHARACTERCONTROLLERREQUESTBUS_CATEGORY</source>
-        <translation type="unfinished">PhysX</translation>
     </message>
     <message id="PHYSXCHARACTERCONTROLLERREQUESTBUS_GETHALFFORWARDEXTENT_NAME">
         <source>PHYSXCHARACTERCONTROLLERREQUESTBUS_GETHALFFORWARDEXTENT_NAME</source>
@@ -44547,7 +44595,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
     <name>EBus: ChatPlayRequestBus</name>
     <message id="CHATPLAYREQUESTBUS_NAME">
         <source>CHATPLAYREQUESTBUS_NAME</source>
-        <translation type="unfinished">Twitch ChatPlay</translation>
+        <translation type="unfinished">ChatPlay</translation>
     </message>
     <message id="CHATPLAYREQUESTBUS_TOOLTIP">
         <source>CHATPLAYREQUESTBUS_TOOLTIP</source>
@@ -44555,7 +44603,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
     </message>
     <message id="CHATPLAYREQUESTBUS_CATEGORY">
         <source>CHATPLAYREQUESTBUS_CATEGORY</source>
-        <translation type="unfinished">Networking</translation>
+        <translation type="unfinished">Twitch</translation>
     </message>
     <message id="CHATPLAYREQUESTBUS_SENDWHISPER_NAME">
         <source>CHATPLAYREQUESTBUS_SENDWHISPER_NAME</source>
@@ -47343,7 +47391,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
     </message>
     <message id="CHATPLAYCHANNELREQUESTBUS_CATEGORY">
         <source>CHATPLAYCHANNELREQUESTBUS_CATEGORY</source>
-        <translation type="unfinished">Networking/Twitch ChatPlay</translation>
+        <translation type="unfinished">Twitch/ChatPlay</translation>
     </message>
     <message id="CHATPLAYCHANNELREQUESTBUS_CONNECT_NAME">
         <source>CHATPLAYCHANNELREQUESTBUS_CONNECT_NAME</source>
@@ -54191,7 +54239,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
     </message>
     <message id="CHATPLAYVOTEREQUESTBUS_CATEGORY">
         <source>CHATPLAYVOTEREQUESTBUS_CATEGORY</source>
-        <translation type="unfinished">Networking/Twitch ChatPlay</translation>
+        <translation type="unfinished">Twitch/ChatPlay</translation>
     </message>
     <message id="CHATPLAYVOTEREQUESTBUS_RESETVOTEDLIST_NAME">
         <source>CHATPLAYVOTEREQUESTBUS_RESETVOTEDLIST_NAME</source>
@@ -55368,7 +55416,7 @@ An Entity can be selected by using the pick button, or by dragging an Entity fro
     </message>
     <message id="METASTREAMREQUESTBUS_CATEGORY">
         <source>METASTREAMREQUESTBUS_CATEGORY</source>
-        <translation type="unfinished">Networking</translation>
+        <translation type="unfinished">Twitch</translation>
     </message>
     <message id="METASTREAMREQUESTBUS_ADDDOUBLETOARRAY_NAME">
         <source>METASTREAMREQUESTBUS_ADDDOUBLETOARRAY_NAME</source>
@@ -72630,7 +72678,7 @@ The element is removed from its current parent and added as a child of the new p
     </message>
     <message id="HANDLER_CHATPLAYCHANNELNOTIFICATIONBUS_CATEGORY">
         <source>HANDLER_CHATPLAYCHANNELNOTIFICATIONBUS_CATEGORY</source>
-        <translation type="unfinished">Networking/Twitch ChatPlay</translation>
+        <translation type="unfinished">Twitch/ChatPlay</translation>
     </message>
     <message id="HANDLER_CHATPLAYCHANNELNOTIFICATIONBUS_ONCONNECTIONSTATECHANGED_NAME">
         <source>HANDLER_CHATPLAYCHANNELNOTIFICATIONBUS_ONCONNECTIONSTATECHANGED_NAME</source>
@@ -76513,7 +76561,7 @@ The element is removed from its current parent and added as a child of the new p
     <message id="HANDLER_UIDYNAMICSCROLLBOXDATABUS_GETELEMENTINSECTIONWIDTH_OUTPUT1_TOOLTIP">
         <source>HANDLER_UIDYNAMICSCROLLBOXDATABUS_GETELEMENTINSECTIONWIDTH_OUTPUT1_TOOLTIP</source>
         <translation type="unfinished">The index of the element in the specified section</translation>
-    </message>    
+    </message>
     <message id="HANDLER_UIDYNAMICSCROLLBOXDATABUS_GETELEMENTINSECTIONWIDTH_PARAM0_NAME">
         <source>HANDLER_UIDYNAMICSCROLLBOXDATABUS_GETELEMENTINSECTIONWIDTH_PARAM0_NAME</source>
         <comment>Simple Type: Number C++ Type: float</comment>
@@ -76549,7 +76597,7 @@ The element is removed from its current parent and added as a child of the new p
     <message id="HANDLER_UIDYNAMICSCROLLBOXDATABUS_GETELEMENTINSECTIONHEIGHT_OUTPUT1_TOOLTIP">
         <source>HANDLER_UIDYNAMICSCROLLBOXDATABUS_GETELEMENTINSECTIONHEIGHT_OUTPUT1_TOOLTIP</source>
         <translation type="unfinished">The index of the element in the specified section</translation>
-    </message>    
+    </message>
     <message id="HANDLER_UIDYNAMICSCROLLBOXDATABUS_GETELEMENTINSECTIONHEIGHT_PARAM0_NAME">
         <source>HANDLER_UIDYNAMICSCROLLBOXDATABUS_GETELEMENTINSECTIONHEIGHT_PARAM0_NAME</source>
         <comment>Simple Type: Number C++ Type: float</comment>
@@ -76612,7 +76660,7 @@ The element is removed from its current parent and added as a child of the new p
     <message id="HANDLER_UIDYNAMICSCROLLBOXDATABUS_GETSECTIONHEADERHEIGHT_PARAM0_TOOLTIP">
         <source>HANDLER_UIDYNAMICSCROLLBOXDATABUS_GETSECTIONHEADERWIDTH_PARAM0_TOOLTIP</source>
         <translation type="unfinished">The height of the header at the specified section</translation>
-    </message>    
+    </message>
 </context>
 <context>
     <name>EBus: MaterialOwnerRequestBus</name>
@@ -94729,7 +94777,7 @@ The element is removed from its current parent and added as a child of the new p
     <message id="PARTICLECOMPONENTREQUESTBUS_SETPARTICLESIZESCALEY_PARAM0_TOOLTIP">
         <source>PARTICLECOMPONENTREQUESTBUS_SETPARTICLESIZESCALEY_PARAM0_TOOLTIP</source>
         <translation type="unfinished">Multiplier for the particle size on the Y axis</translation>
-    </message>    
+    </message>
     <message id="PARTICLECOMPONENTREQUESTBUS_SETPARTICLESIZESCALEZ_NAME">
         <source>PARTICLECOMPONENTREQUESTBUS_SETPARTICLESIZESCALEZ_NAME</source>
         <comment>Class/Bus: ParticleComponentRequestBus  Event/Method: SetParticleSizeScaleZ</comment>
@@ -94986,15 +95034,11 @@ The element is removed from its current parent and added as a child of the new p
     <message id="PARTICLECOMPONENTREQUESTBUS_GETPARTICLESIZESCALEY_OUTPUT0_TOOLTIP">
         <source>PARTICLECOMPONENTREQUESTBUS_GETPARTICLESIZESCALEY_OUTPUT0_TOOLTIP</source>
         <translation type="unfinished">Multiplier for the particle size on the Y axis</translation>
-    </message>    
+    </message>
     <message id="PARTICLECOMPONENTREQUESTBUS_GETPARTICLESIZESCALEZ_NAME">
         <source>PARTICLECOMPONENTREQUESTBUS_GETPARTICLESIZESCALEZ_NAME</source>
         <comment>Class/Bus: ParticleComponentRequestBus  Event/Method: GetParticleSizeScaleZ</comment>
         <translation type="unfinished">Get Size Scale Z</translation>
-    </message>
-    <message id="PARTICLECOMPONENTREQUESTBUS_GETPARTICLESIZESCALEY_TOOLTIP">
-        <source>PARTICLECOMPONENTREQUESTBUS_GETPARTICLESIZESCALEY_TOOLTIP</source>
-        <translation type="unfinished">Gets the multiplier for the particle size on the Z axis</translation>
     </message>
     <message id="PARTICLECOMPONENTREQUESTBUS_GETPARTICLESIZESCALEZ_CATEGORY">
         <source>PARTICLECOMPONENTREQUESTBUS_GETPARTICLESIZESCALEZ_CATEGORY</source>
@@ -95880,7 +95924,7 @@ You can call &quot;Redo Drag&quot; from a script after the script has caused dro
     <name>Handler: ChatPlayNotificationBus</name>
     <message id="HANDLER_CHATPLAYNOTIFICATIONBUS_NAME">
         <source>HANDLER_CHATPLAYNOTIFICATIONBUS_NAME</source>
-        <translation type="unfinished">Twitch ChatPlay</translation>
+        <translation type="unfinished">ChatPlay</translation>
     </message>
     <message id="HANDLER_CHATPLAYNOTIFICATIONBUS_TOOLTIP">
         <source>HANDLER_CHATPLAYNOTIFICATIONBUS_TOOLTIP</source>
@@ -95888,7 +95932,7 @@ You can call &quot;Redo Drag&quot; from a script after the script has caused dro
     </message>
     <message id="HANDLER_CHATPLAYNOTIFICATIONBUS_CATEGORY">
         <source>HANDLER_CHATPLAYNOTIFICATIONBUS_CATEGORY</source>
-        <translation type="unfinished">Networking</translation>
+        <translation type="unfinished">Twitch</translation>
     </message>
     <message id="HANDLER_CHATPLAYNOTIFICATIONBUS_ONWHISPERSENT_NAME">
         <source>HANDLER_CHATPLAYNOTIFICATIONBUS_ONWHISPERSENT_NAME</source>
@@ -110538,7 +110582,7 @@ Called only once for each spawn request. Called after the &quot;On Entity Spawne
     <message id="DEFAULTS_EBUSHANDLER_BUSID_TOOLTIP">
         <source>DEFAULTS_EBUSHANDLER_BUSID_TOOLTIP</source>
         <translation type="unfinished">The Source which the events are generated from</translation>
-    </message>    
+    </message>
     <message id="DEFAULTS_EBUSHANDLER_ONTRIGGERED_NAME">
         <source>DEFAULTS_EBUSHANDLER_ONTRIGGERED_NAME</source>
         <translation type="unfinished">Out</translation>
@@ -110554,7 +110598,7 @@ Called only once for each spawn request. Called after the &quot;On Entity Spawne
     </message>
     <message id="DEFAULTS_EBUSSENDER_BUSID_TOOLTIP">
         <source>DEFAULTS_EBUSSENDER_BUSID_TOOLTIP</source>
-        <translation type="unfinished">The Source from which the events will be generated</translation>
+        <translation type="unfinished">The Source from  which the events will be generated</translation>
     </message>
     <message id="DEFAULTS_EBUSSENDER_ONTRIGGERED_NAME">
         <source>DEFAULTS_EBUSSENDER_ONTRIGGERED_NAME</source>
@@ -121050,6 +121094,8 @@ For &quot;Ping Pong&quot; loops, this triggers when either &quot;Start Frame&quo
         <source>UIMARKUPBUTTONBUS_SETLINKHOVERCOLOR_PARAM0_TOOLTIP</source>
         <translation type="unfinished">The hovered color for the clickable links</translation>
     </message>
+</context>
+<context>
     <name>EBus: MessagePopupRequestBus</name>
     <message id="MESSAGEPOPUPREQUESTBUS_NAME">
         <source>MESSAGEPOPUPREQUESTBUS_NAME</source>
@@ -121105,6 +121151,8 @@ For &quot;Ping Pong&quot; loops, this triggers when either &quot;Start Frame&quo
         <source>MESSAGEPOPUPREQUESTBUS_HIDEPOPUP_OUTPUT0_TOOLTIP</source>
         <translation>Is the operation succeeded or not</translation>
     </message>
+</context>
+<context>
     <name>Handler: MessagePopupNotificationsBus</name>
     <message id="HANDLER_MESSAGEPOPUPNOTIFICATIONSBUS_NAME">
         <source>HANDLER_MESSAGEPOPUPNOTIFICATIONSBUS_NAME</source>
@@ -121133,6 +121181,6099 @@ For &quot;Ping Pong&quot; loops, this triggers when either &quot;Start Frame&quo
         <source>HANDLER_MESSAGEPOPUPNOTIFICATIONSBUS_ONHIDE_OUTPUT1_TOOLTIP</source>
         <translation>The button the player pressed. 0: Yes or confirm, 1: No</translation>
     </message>
-	
+</context>
+<context>
+    <name>EBus: TwitchApiRequestBus</name>
+    <message id="TWITCHAPIREQUESTBUS_NAME">
+        <source>TWITCHAPIREQUESTBUS_NAME</source>
+        <translation type="unfinished">Twitch Api</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_CATEGORY</source>
+        <translation type="unfinished">Twitch</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetWebhookSubscriptions</comment>
+        <translation>GetWebhookSubscriptions</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_PARAM0_NAME</source>
+        <comment>Simple Type: ? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">After</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Cursor for forward pagination: tells the server where to start fetching the next set of results, in a multi-page response.=</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_PARAM2_NAME</source>
+        <comment>Simple Type: Number C++ Type: unsigned char</comment>
+        <translation type="unfinished">Max Results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETWEBHOOKSUBSCRIPTIONS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Maximum number of results to return</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetUsers</comment>
+        <translation>GetUsers</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETUSERS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERS_PARAM0_NAME</source>
+        <comment>Simple Type: ? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERS_PARAM1_NAME</source>
+        <comment>Simple Type: Array&lt;String&gt; C++ Type: const AZStd::vector&lt;AZStd::basic_string&lt;char, AZStd::char_trait</comment>
+        <translation type="unfinished">User IDs</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Multiple User IDs can be specified up to 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERS_PARAM2_NAME</source>
+        <comment>Simple Type: Array&lt;String&gt; C++ Type: const AZStd::vector&lt;AZStd::basic_string&lt;char, AZStd::char_trait</comment>
+        <translation type="unfinished">User Login</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Multiple login names can be specified up to 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: UpdateUserExtensions</comment>
+        <translation>UpdateUserExtensions</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_PARAM0_NAME</source>
+        <comment>Simple Type: C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_PARAM1_NAME</source>
+        <comment>Simple Type: C++ Type: const AZStd::vector&lt;GetUserActiveExtensionsComponent, allocator</comment>
+        <translation type="unfinished">Panel</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">GetUserActiveExtensionsComponents describing Twitch Panel Extensions</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_PARAM2_NAME</source>
+        <comment>Simple Type:  C++ Type: const AZStd::vector&lt;GetUserActiveExtensionsComponent, allocator</comment>
+        <translation type="unfinished">Overlay</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">GetUserActiveExtensionsComponents describing Twitch Overlay Extensions</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_PARAM3_NAME</source>
+        <comment>Simple Type: C++ Type: const AZStd::vector&lt;GetUserActiveExtensionsComponent, allocator</comment>
+        <translation type="unfinished">Component</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSEREXTENSIONS_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">GetUserActiveExtensionsComponents describing Twitch Component Extensions</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetStreams</comment>
+        <translation>GetStreams</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM0_NAME</source>
+        <comment>Simple Type: C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM1_NAME</source>
+        <comment>Simple Type: Array&lt;String&gt; C++ Type: const AZStd::vector&lt;AZStd::basic_string&lt;char, AZStd::char_trait</comment>
+        <translation type="unfinished">Game IDs</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Returns streams broadcasting a specified game ID. You can specify up to 100 IDs</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM2_NAME</source>
+        <comment>Simple Type: Array&lt;String&gt; C++ Type: const AZStd::vector&lt;AZStd::basic_string&lt;char, AZStd::char_trait</comment>
+        <translation type="unfinished">User IDs</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Returns streams broadcast by one or more specified user IDs. You can specify up to 100 IDs</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM3_NAME</source>
+        <comment>Simple Type: Array&lt;String&gt; C++ Type: const AZStd::vector&lt;AZStd::basic_string&lt;char, AZStd::char_trait</comment>
+        <translation type="unfinished">User Logins</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">Returns streams broadcast by one or more specified user login names. You can specify up to 100 names</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM4_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM4_NAME</source>
+        <comment>Simple Type: Array&lt;String&gt; C++ Type: const AZStd::vector&lt;AZStd::basic_string&lt;char, AZStd::char_trait</comment>
+        <translation type="unfinished">Languages</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM4_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM4_TOOLTIP</source>
+        <translation type="unfinished">Stream language. You can specify up to 100 languages. A language value must be either the ISO 639-1 two-letter code for a supported stream language or “other”</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM5_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM5_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Before</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM5_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM5_TOOLTIP</source>
+        <translation type="unfinished">Cursor for backward pagination: tells the server where to start fetching the next set of results, in a multi-page response</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM6_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM6_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">After</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM6_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM6_TOOLTIP</source>
+        <translation type="unfinished">Cursor for forward pagination: tells the server where to start fetching the next set of results, in a multi-page response</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM7_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM7_NAME</source>
+        <comment>Simple Type: Number C++ Type: unsigned char</comment>
+        <translation type="unfinished">Max Results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM7_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMS_PARAM7_TOOLTIP</source>
+        <translation type="unfinished">Maximum results to return</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETAPPLICATIONID_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETAPPLICATIONID_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetApplicationID</comment>
+        <translation>GetApplicationID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETAPPLICATIONID_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETAPPLICATIONID_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETAPPLICATIONID_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETAPPLICATIONID_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETAPPLICATIONID_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETAPPLICATIONID_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETAPPLICATIONID_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETAPPLICATIONID_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETAPPLICATIONID_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETAPPLICATIONID_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETAPPLICATIONID_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETAPPLICATIONID_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETAPPLICATIONID_OUTPUT0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETAPPLICATIONID_OUTPUT0_NAME</source>
+        <comment>C++ Type: AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, allocator&gt;</comment>
+        <translation>String</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETAPPLICATIONID_OUTPUT0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETAPPLICATIONID_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETAPPACCESSTOKEN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETAPPACCESSTOKEN_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetAppAccessToken</comment>
+        <translation>GetAppAccessToken</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETAPPACCESSTOKEN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETAPPACCESSTOKEN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETAPPACCESSTOKEN_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETAPPACCESSTOKEN_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETAPPACCESSTOKEN_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETAPPACCESSTOKEN_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETAPPACCESSTOKEN_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETAPPACCESSTOKEN_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETAPPACCESSTOKEN_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETAPPACCESSTOKEN_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETAPPACCESSTOKEN_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETAPPACCESSTOKEN_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETAPPACCESSTOKEN_OUTPUT0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETAPPACCESSTOKEN_OUTPUT0_NAME</source>
+        <comment>C++ Type: AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, allocator&gt;</comment>
+        <translation>String</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETAPPACCESSTOKEN_OUTPUT0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETAPPACCESSTOKEN_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetUserFollows</comment>
+        <translation>GetUserFollows</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM0_NAME</source>
+        <comment>Simple Type: ?? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, allocator&gt;</comment>
+        <translation type="unfinished">From ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">User ID. The request returns information about users who are being followed by the From ID  user</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">To ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">User ID. The request returns information about users who are following the To ID  user</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM3_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">After</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">Cursor for forward pagination: tells the server where to start fetching the next set of results, in a multi-page response</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM4_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM4_NAME</source>
+        <comment>Simple Type: Number C++ Type: unsigned char</comment>
+        <translation type="unfinished">Max Results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM4_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERFOLLOWS_PARAM4_TOOLTIP</source>
+        <translation type="unfinished">Maximum number of objects to return. Maximum: 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTAPPACCESSTOKEN_NAME">
+        <source>TWITCHAPIREQUESTBUS_REQUESTAPPACCESSTOKEN_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: RequestAppAccessToken</comment>
+        <translation>RequestAppAccessToken</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTAPPACCESSTOKEN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REQUESTAPPACCESSTOKEN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTAPPACCESSTOKEN_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_REQUESTAPPACCESSTOKEN_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTAPPACCESSTOKEN_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_REQUESTAPPACCESSTOKEN_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTAPPACCESSTOKEN_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REQUESTAPPACCESSTOKEN_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTAPPACCESSTOKEN_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_REQUESTAPPACCESSTOKEN_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTAPPACCESSTOKEN_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REQUESTAPPACCESSTOKEN_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_NAME">
+        <source>TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: ReplaceStreamTags</comment>
+        <translation>ReplaceStreamTags</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_PARAM0_NAME</source>
+        <comment>Simple Type: ?? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">ID of the broadcaster to apply changes to</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_PARAM2_NAME</source>
+        <comment>Simple Type: Array&lt;String&gt; C++ Type: const AZStd::vector&lt;AZStd::basic_string&lt;char, AZStd::char_trait</comment>
+        <translation type="unfinished">Tag IDs</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REPLACESTREAMTAGS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">IDs of tags to be applied to the stream.Maximum of 100 supported</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERID_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERID_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetUserID</comment>
+        <translation>GetUserID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERID_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERID_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERID_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETUSERID_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERID_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERID_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERID_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERID_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERID_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERID_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERID_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERID_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERID_OUTPUT0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERID_OUTPUT0_NAME</source>
+        <comment>C++ Type: AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, allocator&gt;</comment>
+        <translation>String</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERID_OUTPUT0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERID_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECLIP_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATECLIP_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: CreateClip</comment>
+        <translation>CreateClip</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECLIP_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATECLIP_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECLIP_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_CREATECLIP_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECLIP_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATECLIP_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECLIP_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATECLIP_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECLIP_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATECLIP_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECLIP_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATECLIP_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECLIP_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATECLIP_PARAM0_NAME</source>
+        <comment>Simple Type: ? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECLIP_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATECLIP_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECLIP_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATECLIP_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECLIP_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATECLIP_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">ID of the stream from which the clip will be made</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECLIP_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATECLIP_PARAM2_NAME</source>
+        <comment>Simple Type: Boolean C++ Type: bool</comment>
+        <translation type="unfinished">Has Delay</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECLIP_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATECLIP_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">If false, the clip is captured from the live stream when the API is called; otherwise, a delay is added before the clip is captured (to account for the brief delay between the broadcaster’s stream and the viewer’s experience of that stream)</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetUserActiveExtensions</comment>
+        <translation>GetUserActiveExtensions</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_PARAM0_NAME</source>
+        <comment>Simple Type: `? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">User ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACTIVEEXTENSIONS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">ID of the user whose installed extensions will be returned</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: CreateEntitlementGrantsUploadURL</comment>
+        <translation>CreateEntitlementGrantsUploadURL</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_PARAM0_NAME</source>
+        <comment>Simple Type: `? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Manifest ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Unique identifier of the manifest file to be uploaded. Must be 1-64 characters</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Entitlement Type</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATEENTITLEMENTGRANTSUPLOADURL_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Type of entitlement being granted</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetAllStreamTags</comment>
+        <translation>GetAllStreamTags</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_PARAM0_NAME</source>
+        <comment>Simple Type: `? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">Receipt ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_PARAM1_NAME</source>
+        <comment>Simple Type: Array&lt;String&gt; C++ Type: const AZStd::vector&lt;AZStd::basic_string&lt;char, AZStd::char_trait</comment>
+        <translation type="unfinished">Tag IDs</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">ID of a tag. Multiple IDs can be specified, separated by ampersands. If provided, only the specified tag(s) is(are) returned. Maximum of 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">After</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Cursor for forward pagination: tells the server where to start fetching the next set of results, in a multi-page response</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_PARAM3_NAME</source>
+        <comment>Simple Type: Number C++ Type: unsigned char</comment>
+        <translation type="unfinished">Max Results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETALLSTREAMTAGS_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">Maximum number of results to return</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetClips</comment>
+        <translation>GetClips</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_PARAM0_NAME</source>
+        <comment>Simple Type: `? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">ID of the broadcaster for whom clips are returned</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Game ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">ID of the game for which clips are returned</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_PARAM3_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Clip ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">ID of the clip being queried</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_PARAM4_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_PARAM4_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Started At</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_PARAM4_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_PARAM4_TOOLTIP</source>
+        <translation type="unfinished">Starting date/time for returned clips, in RFC3339 format</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_PARAM5_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_PARAM5_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Ended At</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_PARAM5_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_PARAM5_TOOLTIP</source>
+        <translation type="unfinished">Ending date/time for returned clips, in RFC3339 format</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_PARAM6_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_PARAM6_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Before</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_PARAM6_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_PARAM6_TOOLTIP</source>
+        <translation type="unfinished">Cursor for backward pagination: tells the server where to start fetching the next set of results, in a multi-page response. This applies only to queries specifying broadcaster_id or game_id</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_PARAM7_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_PARAM7_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">After</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_PARAM7_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_PARAM7_TOOLTIP</source>
+        <translation type="unfinished">Cursor for forward pagination: tells the server where to start fetching the next set of results, in a multi-page response. This applies only to queries specifying broadcaster_id or game_id</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_PARAM8_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_PARAM8_NAME</source>
+        <comment>Simple Type: Number C++ Type: unsigned char</comment>
+        <translation type="unfinished">Max Results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCLIPS_PARAM8_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCLIPS_PARAM8_TOOLTIP</source>
+        <translation type="unfinished">Maximum number of objects to return</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTUSERACCESSTOKEN_NAME">
+        <source>TWITCHAPIREQUESTBUS_REQUESTUSERACCESSTOKEN_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: RequestUserAccessToken</comment>
+        <translation>RequestUserAccessToken</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTUSERACCESSTOKEN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REQUESTUSERACCESSTOKEN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTUSERACCESSTOKEN_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_REQUESTUSERACCESSTOKEN_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTUSERACCESSTOKEN_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_REQUESTUSERACCESSTOKEN_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTUSERACCESSTOKEN_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REQUESTUSERACCESSTOKEN_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTUSERACCESSTOKEN_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_REQUESTUSERACCESSTOKEN_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTUSERACCESSTOKEN_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REQUESTUSERACCESSTOKEN_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetBroadcasterSubscriptions</comment>
+        <translation>GetBroadcasterSubscriptions</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_PARAM0_NAME</source>
+        <comment>Simple Type: ? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">User ID of the broadcaster. Must match the User ID in the Bearer token</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_PARAM2_NAME</source>
+        <comment>Simple Type: Array&lt;String&gt; C++ Type: const AZStd::vector&lt;AZStd::basic_string&lt;char, AZStd::char_trait</comment>
+        <translation type="unfinished">User IDs</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBROADCASTERSUBSCRIPTIONS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Returns broadcaster’s subscribers.Unique identifier of account to get subscription status of. Accepts up to 100 values</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACCESSTOKEN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACCESSTOKEN_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetUserAccessToken</comment>
+        <translation>GetUserAccessToken</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACCESSTOKEN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACCESSTOKEN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACCESSTOKEN_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACCESSTOKEN_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACCESSTOKEN_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACCESSTOKEN_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACCESSTOKEN_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACCESSTOKEN_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACCESSTOKEN_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACCESSTOKEN_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACCESSTOKEN_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACCESSTOKEN_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACCESSTOKEN_OUTPUT0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACCESSTOKEN_OUTPUT0_NAME</source>
+        <comment>C++ Type: AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, allocator&gt;</comment>
+        <translation>String</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERACCESSTOKEN_OUTPUT0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERACCESSTOKEN_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: CreateStreamMarker</comment>
+        <translation>CreateStreamMarker</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_PARAM0_NAME</source>
+        <comment>Simple Type: ? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">User ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">ID of the broadcaster in whose live stream the marker is created</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Description</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATESTREAMMARKER_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Description of or comments on the marker. Max length is 140 characters</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSEREXTENSIONS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSEREXTENSIONS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetUserExtensions</comment>
+        <translation>GetUserExtensions</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSEREXTENSIONS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSEREXTENSIONS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSEREXTENSIONS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETUSEREXTENSIONS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSEREXTENSIONS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSEREXTENSIONS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSEREXTENSIONS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSEREXTENSIONS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSEREXTENSIONS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSEREXTENSIONS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSEREXTENSIONS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSEREXTENSIONS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSEREXTENSIONS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSEREXTENSIONS_PARAM0_NAME</source>
+        <comment>Simple Type: ? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSEREXTENSIONS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSEREXTENSIONS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_NAME">
+        <source>TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: CheckAutoModStatus</comment>
+        <translation>CheckAutoModStatus</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_PARAM0_NAME</source>
+        <comment>Simple Type: ? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">ID of the broadcaster. Must match the User ID for the assosciated OAuth Token</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_PARAM2_NAME</source>
+        <comment>Simple Type: `? C++ Type: const AZStd::vector&lt;CheckAutoModInputDatum, allocator&gt;&amp;</comment>
+        <translation type="unfinished">Filter Targets</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CHECKAUTOMODSTATUS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Messages to be checked against Auto Mod</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETAPPLICATIONID_NAME">
+        <source>TWITCHAPIREQUESTBUS_SETAPPLICATIONID_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: SetApplicationID</comment>
+        <translation>SetApplicationID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETAPPLICATIONID_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SETAPPLICATIONID_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETAPPLICATIONID_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_SETAPPLICATIONID_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETAPPLICATIONID_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_SETAPPLICATIONID_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETAPPLICATIONID_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SETAPPLICATIONID_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETAPPLICATIONID_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_SETAPPLICATIONID_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETAPPLICATIONID_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SETAPPLICATIONID_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETAPPLICATIONID_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_SETAPPLICATIONID_PARAM0_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Application ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETAPPLICATIONID_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SETAPPLICATIONID_PARAM0_TOOLTIP</source>
+        <translation type="unfinished">Twitch Application ID. Can only be set once per session</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATORS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATORS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetModerators</comment>
+        <translation>GetModerators</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATORS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATORS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATORS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATORS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATORS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATORS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATORS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATORS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATORS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATORS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATORS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATORS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATORS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATORS_PARAM0_NAME</source>
+        <comment>Simple Type: `? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATORS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATORS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATORS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATORS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATORS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATORS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Provided broadcaster_id must match the user_id in the auth token</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATORS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATORS_PARAM2_NAME</source>
+        <comment>Simple Type: Array&lt;String&gt; C++ Type: const AZStd::vector&lt;AZStd::basic_string&lt;char, AZStd::char_trait</comment>
+        <translation type="unfinished">User IDs</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATORS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATORS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Filters the results and only returns a status object for users who are banned in this channel and have a matching user_id</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATORS_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATORS_PARAM3_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">After</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATORS_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATORS_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">Cursor for forward pagination: tells the server where to start fetching the next set of results in a multi-page response. This applies only to queries without user_id. If a user_id is specified, it supersedes any cursor/offset combinations</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMTAGS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMTAGS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetStreamTags</comment>
+        <translation>GetStreamTags</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMTAGS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMTAGS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMTAGS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMTAGS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMTAGS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMTAGS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMTAGS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMTAGS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMTAGS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMTAGS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMTAGS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMTAGS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMTAGS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMTAGS_PARAM0_NAME</source>
+        <comment>Simple Type: `? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMTAGS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMTAGS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMTAGS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMTAGS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMTAGS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMTAGS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">ID of the stream thats tags are going to be fetched</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetBannedEvents</comment>
+        <translation>GetBannedEvents</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM0_NAME</source>
+        <comment>Simple Type: `? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Provided broadcaster_id must match the user_id in the auth token</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM2_NAME</source>
+        <comment>Simple Type: Array&lt;String&gt; C++ Type: const AZStd::vector&lt;AZStd::basic_string&lt;char, AZStd::char_trait</comment>
+        <translation type="unfinished">User IDs</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Filters the results and only returns a status object for users who are banned in this channel and have a matching user_id. Maximum of 100 IDs</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM3_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">After</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">Cursor for forward pagination: tells the server where to start fetching the next set of results in a multi-page response. This applies only to queries without user_id. If a user_id is specified, it supersedes any cursor/offset combinations</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM4_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM4_NAME</source>
+        <comment>Simple Type: Number C++ Type: unsigned char</comment>
+        <translation type="unfinished">Max Results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM4_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDEVENTS_PARAM4_TOOLTIP</source>
+        <translation type="unfinished">Maximum number of objects to return. Maximum: 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetExtensionTransactions</comment>
+        <translation>GetExtensionTransactions</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM0_NAME</source>
+        <comment>Simple Type: `? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Extension ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">ID of the extension to list transactions for</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Transaction ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Transaction IDs to look up. Can include multiple to fetch multiple transactions in a single request. Maximum of 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM3_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">After</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">The cursor used to fetch the next page of data. This only applies to queries without ID. If an ID is specified, it supersedes the cursor</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM4_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM4_NAME</source>
+        <comment>Simple Type: Number C++ Type: unsigned char</comment>
+        <translation type="unfinished">Max Results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM4_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONTRANSACTIONS_PARAM4_TOOLTIP</source>
+        <translation type="unfinished">Maximum number of objects to return. Maximum: 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetModeratorEvents</comment>
+        <translation>GetModeratorEvents</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_PARAM0_NAME</source>
+        <comment>Simple Type: `? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Provided broadcaster_id must match the user_id in the auth token</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_PARAM2_NAME</source>
+        <comment>Simple Type: Array&lt;String&gt; C++ Type: const AZStd::vector&lt;AZStd::basic_string&lt;char, AZStd::char_trait</comment>
+        <translation type="unfinished">User IDs</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETMODERATOREVENTS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Filters the results and only returns a status object for users who are banned in this channel and have a matching user_id. Maximume of 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSER_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSER_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: UpdateUser</comment>
+        <translation>UpdateUser</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSER_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSER_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSER_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSER_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSER_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSER_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSER_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSER_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSER_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSER_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSER_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSER_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSER_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSER_PARAM0_NAME</source>
+        <comment>Simple Type: `? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSER_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSER_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSER_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSER_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Description</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEUSER_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEUSER_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Description of the user specified by the Bearer token to update</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetGameAnalytics</comment>
+        <translation>GetGameAnalytics</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM0_NAME</source>
+        <comment>Simple Type: `? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Started At</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Starting date/time for returned reports, in RFC3339 format with the hours, minutes, and seconds zeroed out and the UTC timezone: YYYY-MM-DDT00:00:00Z.
+
+If this is provided, ended_at also must be specified. If started_at is earlier than the default start date, the default date is used. Default: 365 days (overview_v2) or 90 days (overview_v1) before the report was issued. The file contains one row of data per day</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Ended At</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Ending date/time for returned reports, in RFC3339 format with the hours, minutes, and seconds zeroed out and the UTC timezone: YYYY-MM-DDT00:00:00Z. The report covers the entire ending date; e.g., if 2018-05-01T00:00:00Z is specified, the report covers up to 2018-05-01T23:59:59Z.
+
+If this is provided, started_at also must be specified. If ended_at is later than the default end date, the default date is used. Default: 1-2 days before the request was issued (depending on report availability)</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM3_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Game ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">Game ID. If this is specified, the returned URL points to an analytics report for just the specified game. If this is not specified, the response includes multiple URLs (paginated), pointing to separate analytics reports for each of the authenticated user’s games</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM4_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM4_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">After</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM4_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM4_TOOLTIP</source>
+        <translation type="unfinished">Cursor for forward pagination: tells the server where to start fetching the next set of results, in a multi-page response. This applies only to queries without game_id. If a game_id is specified, it supersedes any cursor/offset combinations</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM5_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM5_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Type</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM5_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM5_TOOLTIP</source>
+        <translation type="unfinished">Type of analytics report that is returned. If this is specified, the response includes one URL, for the specified report type. If this is not specified, the response includes multiple URLs (paginated), one for each report type available for the authenticated user’s games. Limit: 1. Valid values: &quot;overview_v1&quot;, &quot;overview_v2&quot;. Default: all report types for the authenticated user’s games</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM6_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM6_NAME</source>
+        <comment>Simple Type: Number C++ Type: unsigned char</comment>
+        <translation type="unfinished">Max Results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM6_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETGAMEANALYTICS_PARAM6_TOOLTIP</source>
+        <translation type="unfinished">Maximum number of objects to return. Maximum: 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETAPPACCESSTOKEN_NAME">
+        <source>TWITCHAPIREQUESTBUS_SETAPPACCESSTOKEN_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: SetAppAccessToken</comment>
+        <translation>SetAppAccessToken</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETAPPACCESSTOKEN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SETAPPACCESSTOKEN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETAPPACCESSTOKEN_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_SETAPPACCESSTOKEN_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETAPPACCESSTOKEN_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_SETAPPACCESSTOKEN_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETAPPACCESSTOKEN_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SETAPPACCESSTOKEN_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETAPPACCESSTOKEN_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_SETAPPACCESSTOKEN_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETAPPACCESSTOKEN_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SETAPPACCESSTOKEN_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETAPPACCESSTOKEN_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_SETAPPACCESSTOKEN_PARAM0_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">App Access Token</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETAPPACCESSTOKEN_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SETAPPACCESSTOKEN_PARAM0_TOOLTIP</source>
+        <translation type="unfinished">App Access Bearer Token</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETUSERACCESSTOKEN_NAME">
+        <source>TWITCHAPIREQUESTBUS_SETUSERACCESSTOKEN_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: SetUserAccessToken</comment>
+        <translation>SetUserAccessToken</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETUSERACCESSTOKEN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SETUSERACCESSTOKEN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETUSERACCESSTOKEN_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_SETUSERACCESSTOKEN_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETUSERACCESSTOKEN_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_SETUSERACCESSTOKEN_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETUSERACCESSTOKEN_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SETUSERACCESSTOKEN_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETUSERACCESSTOKEN_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_SETUSERACCESSTOKEN_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETUSERACCESSTOKEN_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SETUSERACCESSTOKEN_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETUSERACCESSTOKEN_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_SETUSERACCESSTOKEN_PARAM0_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">User Access Token</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETUSERACCESSTOKEN_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SETUSERACCESSTOKEN_PARAM0_TOOLTIP</source>
+        <translation type="unfinished">User Access Bearer Token</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetExtensionAnalytics</comment>
+        <translation>GetExtensionAnalytics</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM0_NAME</source>
+        <comment>Simple Type: `? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Started At</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Starting date/time for returned reports, in RFC3339 format with the hours, minutes, and seconds zeroed out and the UTC timezone: YYYY-MM-DDT00:00:00Z. This must be on or after January 31, 2018.
+
+If this is provided, ended_at also must be specified. If started_at is earlier than the default start date, the default date is used. Default: January 31, 2018 (overview_v2) or 90 days (overview_v1) before the report was issued. The file contains one row of data per day</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Ended At</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Ending date/time for returned reports, in RFC3339 format with the hours, minutes, and seconds zeroed out and the UTC timezone: YYYY-MM-DDT00:00:00Z. The report covers the entire ending date; e.g., if 2018-05-01T00:00:00Z is specified, the report covers up to 2018-05-01T23:59:59Z.
+
+If this is provided, started_at also must be specified. If ended_at is later than the default end date, the default date is used. Default: 1-2 days before the request was issued (depending on report availability)</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM3_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Extension ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">Client ID value assigned to the extension when it is created. If this is specified, the returned URL points to an analytics report for just the specified extension. If this is not specified, the response includes multiple URLs (paginated), pointing to separate analytics reports for each of the authenticated user’s extensions</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM4_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM4_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">After</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM4_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM4_TOOLTIP</source>
+        <translation type="unfinished">Cursor for forward pagination: tells the server where to start fetching the next set of results, in a multi-page response. This applies only to queries without extension_id. If an extension_id is specified, it supersedes any cursor/offset combinations</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM5_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM5_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Type</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM5_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM5_TOOLTIP</source>
+        <translation type="unfinished">Type of analytics report that is returned. If this is specified, the response includes one URL, for the specified report type. If this is not specified, the response includes multiple URLs (paginated), one for each report type available for the authenticated user’s Extensions. Limit: 1. Valid values: &quot;overview_v1&quot;, &quot;overview_v2&quot;. Default: all report types for the authenticated user’s Extensions</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM6_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM6_NAME</source>
+        <comment>Simple Type: Number C++ Type: unsigned char</comment>
+        <translation type="unfinished">Max Results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM6_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETEXTENSIONANALYTICS_PARAM6_TOOLTIP</source>
+        <translation type="unfinished">Maximum number of objects to return. Maximum: 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTUSERID_NAME">
+        <source>TWITCHAPIREQUESTBUS_REQUESTUSERID_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: RequestUserID</comment>
+        <translation>RequestUserID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTUSERID_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REQUESTUSERID_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTUSERID_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_REQUESTUSERID_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTUSERID_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_REQUESTUSERID_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTUSERID_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REQUESTUSERID_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTUSERID_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_REQUESTUSERID_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REQUESTUSERID_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REQUESTUSERID_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDUSERS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDUSERS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetBannedUsers</comment>
+        <translation>GetBannedUsers</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDUSERS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDUSERS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDUSERS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDUSERS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDUSERS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDUSERS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDUSERS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDUSERS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDUSERS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDUSERS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDUSERS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDUSERS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM0_NAME</source>
+        <comment>Simple Type: `? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Provided broadcaster_id must match the user_id in the auth token</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM2_NAME</source>
+        <comment>Simple Type: Array&lt;String&gt; C++ Type: const AZStd::vector&lt;AZStd::basic_string&lt;char, AZStd::char_trait</comment>
+        <translation type="unfinished">User IDs</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Filters the results and only returns a status object for users who are banned in this channel and have a matching user_id. Maximum of 100 results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM3_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Before</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">Cursor for backward pagination: tells the server where to start fetching the next set of results in a multi-page response. This applies only to queries without user_id. If a user_id is specified, it supersedes any cursor/offset. combinations</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM4_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM4_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">After</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM4_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBANNEDUSERS_PARAM4_TOOLTIP</source>
+        <translation type="unfinished">Cursor for forward pagination: tells the server where to start fetching the next set of results in a multi-page response. This applies only to queries without user_id. If a user_id is specified, it supersedes any cursor/offset combinations</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMES_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETGAMES_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetGames</comment>
+        <translation>GetGames</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMES_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETGAMES_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMES_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETGAMES_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMES_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETGAMES_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMES_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETGAMES_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMES_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETGAMES_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMES_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETGAMES_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMES_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETGAMES_PARAM0_NAME</source>
+        <comment>Simple Type: `? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMES_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETGAMES_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMES_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETGAMES_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Game ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMES_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETGAMES_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Game ID. At most 100 id values can be specified</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMES_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETGAMES_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Game Name</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETGAMES_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETGAMES_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Game name. The name must be an exact match. At most 100 name values can be specified</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetStreamMarkers</comment>
+        <translation>GetStreamMarkers</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM0_NAME</source>
+        <comment>Simple Type: ? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">User ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">ID of the broadcaster from whose stream markers are returned</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Video ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">ID of the VOD/video whose stream markers are returned</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM3_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Before</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">Cursor for backward pagination: tells the server where to start fetching the next set of results, in a multi-page response</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM4_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM4_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">After</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM4_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM4_TOOLTIP</source>
+        <translation type="unfinished">Cursor for forward pagination: tells the server where to start fetching the next set of results, in a multi-page response</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM5_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM5_NAME</source>
+        <comment>Simple Type: Number C++ Type: unsigned char</comment>
+        <translation type="unfinished">Max Results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM5_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMMARKERS_PARAM5_TOOLTIP</source>
+        <translation type="unfinished">Number of values to be returned when getting videos by user or game ID. Limit: 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETUSERID_NAME">
+        <source>TWITCHAPIREQUESTBUS_SETUSERID_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: SetUserID</comment>
+        <translation>SetUserID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETUSERID_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SETUSERID_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETUSERID_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_SETUSERID_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETUSERID_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_SETUSERID_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETUSERID_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SETUSERID_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETUSERID_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_SETUSERID_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETUSERID_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SETUSERID_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETUSERID_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_SETUSERID_PARAM0_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">User ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SETUSERID_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SETUSERID_PARAM0_TOOLTIP</source>
+        <translation type="unfinished">ID of the Twitch User assosciated with the Bearer Token</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETTOPGAMES_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETTOPGAMES_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetTopGames</comment>
+        <translation>GetTopGames</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETTOPGAMES_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETTOPGAMES_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETTOPGAMES_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETTOPGAMES_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETTOPGAMES_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETTOPGAMES_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETTOPGAMES_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETTOPGAMES_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETTOPGAMES_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETTOPGAMES_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETTOPGAMES_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETTOPGAMES_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETTOPGAMES_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETTOPGAMES_PARAM0_NAME</source>
+        <comment>Simple Type: C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETTOPGAMES_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETTOPGAMES_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETTOPGAMES_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETTOPGAMES_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Before</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETTOPGAMES_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETTOPGAMES_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Cursor for backward pagination: tells the server where to start fetching the next set of results, in a multi-page response</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETTOPGAMES_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETTOPGAMES_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">After</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETTOPGAMES_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETTOPGAMES_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Cursor for forward pagination: tells the server where to start fetching the next set of results, in a multi-page response</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETTOPGAMES_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETTOPGAMES_PARAM3_NAME</source>
+        <comment>Simple Type: Number C++ Type: unsigned char</comment>
+        <translation type="unfinished">Max Results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETTOPGAMES_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETTOPGAMES_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">Maximum number of objects to return. Maximum: 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetBitsLeaderboard</comment>
+        <translation>GetBitsLeaderboard</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM0_NAME</source>
+        <comment>Simple Type: `? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Started At</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Timestamp for the period over which the returned data is aggregated. Must be in RFC 3339 format. If this is not provided, data is aggregated over the current period; e.g., the current day/week/month/year. This value is ignored if period is &quot;all&quot;</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Period</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Time period over which data is aggregated (PST time zone). This parameter interacts with started_at. Valid values are given below. Default: &quot;all&quot;.
+&quot;day&quot; – 00:00:00 on the day specified in started_at, through 00:00:00 on the following day.
+&quot;week&quot; – 00:00:00 on Monday of the week specified in started_at, through 00:00:00 on the following Monday.
+&quot;month&quot; – 00:00:00 on the first day of the month specified in started_at, through 00:00:00 on the first day of the following month.
+&quot;year&quot; – 00:00:00 on the first day of the year specified in started_at, through 00:00:00 on the first day of the following year.
+&quot;all&quot; – The lifetime of the broadcaster&apos;s channel. If this is specified (or used by default), started_at is ignored</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM3_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">User ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">ID of the user whose results are returned; i.e., the person who paid for the Bits.
+
+As long as count is greater than 1, the returned data includes additional users, with Bits amounts above and below the user specified by user_id.
+
+If user_id is not provided, the endpoint returns the Bits leaderboard data across top users (subject to the value of count)</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM4_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM4_NAME</source>
+        <comment>Simple Type: Number C++ Type: unsigned char</comment>
+        <translation type="unfinished">Max Results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM4_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETBITSLEADERBOARD_PARAM4_TOOLTIP</source>
+        <translation type="unfinished">Number of results to be returned. Maximum: 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetVideos</comment>
+        <translation>GetVideos</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM0_NAME</source>
+        <comment>Simple Type: `? C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM1_NAME</source>
+        <comment>Simple Type: Array&lt;String&gt; C++ Type: const AZStd::vector&lt;AZStd::basic_string&lt;char, AZStd::char_trait</comment>
+        <translation type="unfinished">Video IDs</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">ID of the video being queried. Limit: 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">User ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">ID of the user who owns the video</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM3_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Game ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">ID of the game the video is of</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM4_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM4_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Video Type</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM4_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM4_TOOLTIP</source>
+        <translation type="unfinished">Type of video. Valid values: &quot;all&quot;, &quot;upload&quot;, &quot;archive&quot;, &quot;highlight&quot;. Default: &quot;all&quot;</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM5_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM5_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Sort Order</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM5_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM5_TOOLTIP</source>
+        <translation type="unfinished">Sort order of the videos. Valid values: &quot;time&quot;, &quot;trending&quot;, &quot;views&quot;. Default: &quot;time&quot;</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM6_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM6_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Period</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM6_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM6_TOOLTIP</source>
+        <translation type="unfinished">Period during which the video was created. Valid values: &quot;all&quot;, &quot;day&quot;, &quot;week&quot;, &quot;month&quot;. Default: &quot;all&quot;</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM7_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM7_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Language</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM7_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM7_TOOLTIP</source>
+        <translation type="unfinished">anguage of the video being queried</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM8_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM8_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Before</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM8_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM8_TOOLTIP</source>
+        <translation type="unfinished">Cursor for backward pagination: tells the server where to start fetching the next set of results, in a multi-page response</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM9_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM9_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">After</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM9_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM9_TOOLTIP</source>
+        <translation type="unfinished">Cursor for forward pagination: tells the server where to start fetching the next set of results, in a multi-page response</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM10_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM10_NAME</source>
+        <comment>Simple Type: Number C++ Type: unsigned char</comment>
+        <translation type="unfinished">Max Results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM10_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETVIDEOS_PARAM10_TOOLTIP</source>
+        <translation type="unfinished">Number of values to be returned when getting videos by user or game ID. Limit: 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetUserBlockList</comment>
+        <translation>GetUserBlockList</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">User ID for a Twitch user</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">After</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Cursor for forward pagination: tells the server where to start fetching the next set of results, in a multi-page response. The cursor value specified here is from the pagination response field of a prior query</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_PARAM3_NAME</source>
+        <comment>Simple Type: Number C++ Type: unsigned char</comment>
+        <translation type="unfinished">Max Results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETUSERBLOCKLIST_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">Maximum number of objects to return. Maximum: 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_BLOCKUSER_NAME">
+        <source>TWITCHAPIREQUESTBUS_BLOCKUSER_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: BlockUser</comment>
+        <translation>BlockUser</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_BLOCKUSER_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_BLOCKUSER_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_BLOCKUSER_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_BLOCKUSER_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_BLOCKUSER_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_BLOCKUSER_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_BLOCKUSER_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_BLOCKUSER_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_BLOCKUSER_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_BLOCKUSER_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_BLOCKUSER_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_BLOCKUSER_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_BLOCKUSER_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_BLOCKUSER_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_BLOCKUSER_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_BLOCKUSER_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_BLOCKUSER_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_BLOCKUSER_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Target User ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_BLOCKUSER_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_BLOCKUSER_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">User ID of the user to be blocked</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_BLOCKUSER_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_BLOCKUSER_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Source Context</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_BLOCKUSER_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_BLOCKUSER_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Source context for blocking the user. Valid values: &quot;chat&quot;, &quot;whisper&quot;</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_BLOCKUSER_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_BLOCKUSER_PARAM3_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Reason</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_BLOCKUSER_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_BLOCKUSER_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">Reason for blocking the user. Valid values: &quot;spam&quot;, &quot;harassment&quot;, or &quot;other&quot;</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UNBLOCKUSER_NAME">
+        <source>TWITCHAPIREQUESTBUS_UNBLOCKUSER_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: UnblockUser</comment>
+        <translation>UnblockUser</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UNBLOCKUSER_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UNBLOCKUSER_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UNBLOCKUSER_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_UNBLOCKUSER_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UNBLOCKUSER_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_UNBLOCKUSER_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UNBLOCKUSER_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UNBLOCKUSER_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UNBLOCKUSER_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_UNBLOCKUSER_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UNBLOCKUSER_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UNBLOCKUSER_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UNBLOCKUSER_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_UNBLOCKUSER_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UNBLOCKUSER_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UNBLOCKUSER_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UNBLOCKUSER_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_UNBLOCKUSER_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Target User ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UNBLOCKUSER_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UNBLOCKUSER_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">User ID of the user to be unblocked</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMKEY_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMKEY_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetStreamKey</comment>
+        <translation>GetStreamKey</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMKEY_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMKEY_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMKEY_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMKEY_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMKEY_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMKEY_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMKEY_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMKEY_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMKEY_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMKEY_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMKEY_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMKEY_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMKEY_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMKEY_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMKEY_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMKEY_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMKEY_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMKEY_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETSTREAMKEY_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETSTREAMKEY_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">User ID of the broadcaster</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: CreateUserFollows</comment>
+        <translation>CreateUserFollows</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">From ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">User ID of the follower</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">To ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">ID of the channel to be followed by the user</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_PARAM3_NAME</source>
+        <comment>Simple Type: Boolean C++ Type: bool</comment>
+        <translation type="unfinished">Allow Notifications</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATEUSERFOLLOWS_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">If true, the user gets email or push notifications (depending on the user’s notification settings) when the channel goes live</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_NAME">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: SearchCategories</comment>
+        <translation>SearchCategories</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Query</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">URl encoded search query</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">After</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Cursor for forward pagination: tells the server where to start fetching the next set of results, in a multi-page response. The cursor value specified here is from the pagination response field of a prior query</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_PARAM3_NAME</source>
+        <comment>Simple Type: Number C++ Type: unsigned char</comment>
+        <translation type="unfinished">Max Results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCATEGORIES_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">Maximum number of objects to return. Maximum: 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetCustomReward</comment>
+        <translation>GetCustomReward</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Provided broadcaster_id must match the user_id in the auth token</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">When used, this parameter filters the results and only returns reward objects for the Custom Rewards with matching ID. Maximum: 50</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_PARAM3_NAME</source>
+        <comment>Simple Type: Boolean C++ Type: bool</comment>
+        <translation type="unfinished">Only Manageable Rewards</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARD_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">When set to true, only returns custom rewards that the calling client_id can manage</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_NAME">
+        <source>TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: ModifyChannelInformation</comment>
+        <translation>ModifyChannelInformation</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">ID of the channel to be updated</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Game ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">The current game ID being played on the channel</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM3_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster Language</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">he language of the channel. A language value must be either the ISO 639-1 two-letter code for a supported stream language or “other”</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM4_NAME">
+        <source>TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM4_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Title</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM4_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_MODIFYCHANNELINFORMATION_PARAM4_TOOLTIP</source>
+        <translation type="unfinished">The title of the stream</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEVIDEOS_NAME">
+        <source>TWITCHAPIREQUESTBUS_DELETEVIDEOS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: DeleteVideos</comment>
+        <translation>DeleteVideos</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEVIDEOS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_DELETEVIDEOS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEVIDEOS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_DELETEVIDEOS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEVIDEOS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_DELETEVIDEOS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEVIDEOS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_DELETEVIDEOS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEVIDEOS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_DELETEVIDEOS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEVIDEOS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_DELETEVIDEOS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEVIDEOS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_DELETEVIDEOS_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEVIDEOS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_DELETEVIDEOS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEVIDEOS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_DELETEVIDEOS_PARAM1_NAME</source>
+        <comment>Simple Type: Array&lt;String&gt; C++ Type: const AZStd::vector&lt;AZStd::basic_string&lt;char, AZStd::char_trait</comment>
+        <translation type="unfinished">IDs</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEVIDEOS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_DELETEVIDEOS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">ID of the video(s) to be deleted. Limit: 5</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REDEEMCODE_NAME">
+        <source>TWITCHAPIREQUESTBUS_REDEEMCODE_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: RedeemCode</comment>
+        <translation>RedeemCode</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REDEEMCODE_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REDEEMCODE_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REDEEMCODE_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_REDEEMCODE_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REDEEMCODE_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_REDEEMCODE_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REDEEMCODE_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REDEEMCODE_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REDEEMCODE_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_REDEEMCODE_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REDEEMCODE_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REDEEMCODE_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REDEEMCODE_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_REDEEMCODE_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REDEEMCODE_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REDEEMCODE_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REDEEMCODE_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_REDEEMCODE_PARAM1_NAME</source>
+        <comment>Simple Type: Array&lt;String&gt; C++ Type: const AZStd::vector&lt;AZStd::basic_string&lt;char, AZStd::char_trait</comment>
+        <translation type="unfinished">Codes</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REDEEMCODE_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REDEEMCODE_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">The code to redeem to the authenticated user’s account.
+
+A fifteen character (plus optional hyphen separators) alphanumeric string, e.g. ABCDE-12345-FGHIJ 1-20 code parameters are allowed</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REDEEMCODE_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_REDEEMCODE_PARAM2_NAME</source>
+        <comment>Simple Type: Number C++ Type: AZ::u64</comment>
+        <translation type="unfinished">User ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_REDEEMCODE_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_REDEEMCODE_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Represents a numeric Twitch user ID.The user account which is going to receive the entitlement associated with the code</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHEERMOTES_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCHEERMOTES_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetCheermotes</comment>
+        <translation>GetCheermotes</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHEERMOTES_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCHEERMOTES_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHEERMOTES_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETCHEERMOTES_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHEERMOTES_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCHEERMOTES_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHEERMOTES_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCHEERMOTES_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHEERMOTES_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCHEERMOTES_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHEERMOTES_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCHEERMOTES_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHEERMOTES_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCHEERMOTES_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHEERMOTES_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCHEERMOTES_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHEERMOTES_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCHEERMOTES_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHEERMOTES_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCHEERMOTES_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">ID for the broadcaster who might own specialized Cheermotes</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetDropsEntitlements</comment>
+        <translation>GetDropsEntitlements</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Unique Identifier of the entitlement</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">User ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">A Twitch User ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM3_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Game ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">A Twitch Game ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM4_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM4_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">After</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM4_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM4_TOOLTIP</source>
+        <translation type="unfinished">The cursor used to fetch the next page of data</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM5_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM5_NAME</source>
+        <comment>Simple Type: Number C++ Type: unsigned char</comment>
+        <translation type="unfinished">Max Results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM5_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETDROPSENTITLEMENTS_PARAM5_TOOLTIP</source>
+        <translation type="unfinished">Maximum number of entitlements to return. Max: 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_NAME">
+        <source>TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: DeleteCustomReward</comment>
+        <translation>DeleteCustomReward</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Provided broadcaster_id must match the user_id in the auth token</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_DELETECUSTOMREWARD_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">ID of the Custom Reward to delete, must match a Custom Reward on broadcaster_id’s channel</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetHypeTrainEvents</comment>
+        <translation>GetHypeTrainEvents</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">User ID of the broadcaster. Must match the User ID in the Bearer token if User Token is used</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">The id of the wanted event, if known</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM3_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Cursor</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">Cursor for forward pagination: tells the server where to start fetching the next set of results in a multi-page response. This applies only to queries without id. If an ID is specified, it supersedes any cursor/offset combinations. The cursor value specified here is from the pagination response field of a prior query</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM4_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM4_NAME</source>
+        <comment>Simple Type: Number C++ Type: unsigned char</comment>
+        <translation type="unfinished">Max Results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM4_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETHYPETRAINEVENTS_PARAM4_TOOLTIP</source>
+        <translation type="unfinished">Maximum number of objects to return. Maximum: 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetChannelEditors</comment>
+        <translation>GetChannelEditors</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELEDITORS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Broadcaster’s user ID associated with the channel</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: CreateCustomRewards</comment>
+        <translation>CreateCustomRewards</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Provided broadcaster_id must match the user_id in the auth token</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_PARAM2_NAME</source>
+        <comment>Simple Type: CustomRewardSettings C++ Type: const CustomRewardSettings&amp;</comment>
+        <translation type="unfinished">Reward Settings</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_CREATECUSTOMREWARDS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Struct used to pass settings for creating and updating custom rewards</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCHANNELS_NAME">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCHANNELS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: SearchChannels</comment>
+        <translation>SearchChannels</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCHANNELS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCHANNELS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCHANNELS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCHANNELS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCHANNELS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCHANNELS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCHANNELS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCHANNELS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCHANNELS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCHANNELS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCHANNELS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCHANNELS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Query</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">URl encoded search query</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">After</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Cursor for forward pagination: tells the server where to start fetching the next set of results, in a multi-page response. The cursor value specified here is from the pagination response field of a prior query</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM3_NAME</source>
+        <comment>Simple Type: Boolean C++ Type: bool</comment>
+        <translation type="unfinished">Live Only</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">Filter results for live streams only</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM4_NAME">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM4_NAME</source>
+        <comment>Simple Type: Number C++ Type: unsigned char</comment>
+        <translation type="unfinished">Max Results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM4_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_SEARCHCHANNELS_PARAM4_TOOLTIP</source>
+        <translation type="unfinished">Maximum number of objects to return. Maximum: 100</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_NAME">
+        <source>TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: StartCommercial</comment>
+        <translation>StartCommercial</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">ID of the channel requesting a commercial</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_PARAM2_NAME</source>
+        <comment>Simple Type: Number C++ Type: AZ::u64</comment>
+        <translation type="unfinished">Length</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_STARTCOMMERCIAL_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Desired length of the commercial in seconds. Valid options are 30, 60, 90, 120, 150, 180</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: UpdateCustomReward</comment>
+        <translation>UpdateCustomReward</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Provided broadcaster_id must match the user_id in the auth token</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARD_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">ID of the Custom Reward to update, must match a Custom Reward on broadcaster_id’s channel</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARDS_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARDS_PARAM3_NAME</source>
+        <comment>Simple Type: CustomRewardSettings C++ Type: const CustomRewardSettings&amp;</comment>
+        <translation type="unfinished">Reward Settings</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARDS_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATECUSTOMREWARDS_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">Struct used to pass settings for creating and updating custom rewards</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCODESTATUS_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCODESTATUS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetCodeStatus</comment>
+        <translation>GetCodeStatus</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCODESTATUS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCODESTATUS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCODESTATUS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETCODESTATUS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCODESTATUS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCODESTATUS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCODESTATUS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCODESTATUS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCODESTATUS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCODESTATUS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCODESTATUS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCODESTATUS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCODESTATUS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCODESTATUS_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCODESTATUS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCODESTATUS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCODESTATUS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCODESTATUS_PARAM1_NAME</source>
+        <comment>Simple Type: Array&lt;String&gt; C++ Type: const AZStd::vector&lt;AZStd::basic_string&lt;char, AZStd::char_trait</comment>
+        <translation type="unfinished">Codes</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCODESTATUS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCODESTATUS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">The code to get the status of. Repeat this query parameter additional times to get the status of multiple codes. 1-20 code parameters are allowed</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCODESTATUS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCODESTATUS_PARAM2_NAME</source>
+        <comment>Simple Type: Number C++ Type: AZ::u64</comment>
+        <translation type="unfinished">User ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCODESTATUS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCODESTATUS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Represents a numeric Twitch user ID. The user account which is going to receive the entitlement associated with the code</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetChannelInformation</comment>
+        <translation>GetChannelInformation</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCHANNELINFORMATION_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">ID of the channel to be updated</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: GetCustomRewardRedemption</comment>
+        <translation>GetCustomRewardRedemption</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">Provided broadcaster_id must match the user_id in the auth token</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Reward ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">When ID is not provided, this parameter returns paginated Custom Reward Redemption objects for redemptions of the Custom Reward with ID reward_id</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM3_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">When used, this param filters the results and only returns Custom Reward Redemption objects for the redemptions with matching ID. Maximum: 50</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM4_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM4_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Status</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM4_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM4_TOOLTIP</source>
+        <translation type="unfinished">When id is not provided, this param is required and filters the paginated Custom Reward Redemption objects for redemptions with the matching status. Can be one of UNFULFILLED, FULFILLED or CANCELED</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM5_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM5_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Sort</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM5_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM5_TOOLTIP</source>
+        <translation type="unfinished">Sort order of redemptions returned when getting the paginated Custom Reward Redemption objects for a reward. One of: OLDEST, NEWEST. Default: OLDEST</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM6_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM6_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">After</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM6_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM6_TOOLTIP</source>
+        <translation type="unfinished">Cursor for forward pagination: tells the server where to start fetching the next set of results, in a multi-page response. This applies only to queries without ID. If an ID is specified, it supersedes any cursor/offset combinations. The cursor value specified here is from the pagination response field of a prior query</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM7_NAME">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM7_NAME</source>
+        <comment>Simple Type: Number C++ Type: unsigned char</comment>
+        <translation type="unfinished">Max Results</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM7_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_GETCUSTOMREWARDREDEMPTION_PARAM7_TOOLTIP</source>
+        <translation type="unfinished">Number of results to be returned when getting the paginated Custom Reward Redemption objects for a reward. Limit: 50</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: UpdateRedemptionStatus</comment>
+        <translation>UpdateRedemptionStatus</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">ID of the Custom Reward Redemption to update, must match a Custom Reward Redemption on broadcaster_id’s channel</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Broadcaster ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Provided broadcaster_id must match the user_id in the auth token</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM3_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM3_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Reward ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM3_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM3_TOOLTIP</source>
+        <translation type="unfinished">ID of the Custom Reward the redemptions to be updated are for</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM4_NAME">
+        <source>TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM4_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">Status</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM4_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_UPDATEREDEMPTIONSTATUS_PARAM4_TOOLTIP</source>
+        <translation type="unfinished">The new status to set redemptions to. Can be either FULFILLED or CANCELED. Updating to CANCELED will refund the user their points</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_NAME">
+        <source>TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_NAME</source>
+        <comment>Class/Bus: TwitchApiRequestBus  Event/Method: DeleteUserFollows</comment>
+        <translation>DeleteUserFollows</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_CATEGORY">
+        <source>TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_CATEGORY</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_OUT_NAME">
+        <source>TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_OUT_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_IN_NAME">
+        <source>TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_IN_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_PARAM0_NAME">
+        <source>TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_PARAM0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: ReceiptID&amp;</comment>
+        <translation type="unfinished">ReceiptID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_PARAM0_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_PARAM0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_PARAM1_NAME">
+        <source>TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_PARAM1_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">From ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_PARAM1_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_PARAM1_TOOLTIP</source>
+        <translation type="unfinished">User ID of the follower</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_PARAM2_NAME">
+        <source>TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_PARAM2_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation type="unfinished">To ID</translation>
+    </message>
+    <message id="TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_PARAM2_TOOLTIP">
+        <source>TWITCHAPIREQUESTBUS_DELETEUSERFOLLOWS_PARAM2_TOOLTIP</source>
+        <translation type="unfinished">Channel to be unfollowed by the user</translation>
+    </message>
+</context>
+<context>
+    <name>Handler: TwitchApiNotifyBus</name>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_NAME</source>
+        <translation>Twitch Api</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_CATEGORY</source>
+        <translation>Twitch</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_USERIDNOTIFY_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_USERIDNOTIFY_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: UserIDNotify</comment>
+        <translation>UserIDNotify</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_USERIDNOTIFY_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_USERIDNOTIFY_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_USERIDNOTIFY_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_USERIDNOTIFY_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_USERIDNOTIFY_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_USERIDNOTIFY_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_USERIDNOTIFY_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_USERIDNOTIFY_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_USERIDNOTIFY_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_USERIDNOTIFY_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_USERIDNOTIFY_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_USERIDNOTIFY_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_USERIDNOTIFY_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_USERIDNOTIFY_OUTPUT0_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation>User ID</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_USERIDNOTIFY_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_USERIDNOTIFY_OUTPUT0_TOOLTIP</source>
+        <translation>User ID used for Twitch Api requests</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_USERACCESSTOKENNOTIFY_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_USERACCESSTOKENNOTIFY_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: UserAccessTokenNotify</comment>
+        <translation>UserAccessTokenNotify</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_USERACCESSTOKENNOTIFY_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_USERACCESSTOKENNOTIFY_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_USERACCESSTOKENNOTIFY_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_USERACCESSTOKENNOTIFY_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_USERACCESSTOKENNOTIFY_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_USERACCESSTOKENNOTIFY_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_USERACCESSTOKENNOTIFY_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_USERACCESSTOKENNOTIFY_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_USERACCESSTOKENNOTIFY_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_USERACCESSTOKENNOTIFY_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_USERACCESSTOKENNOTIFY_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_USERACCESSTOKENNOTIFY_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_USERACCESSTOKENNOTIFY_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_USERACCESSTOKENNOTIFY_OUTPUT0_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation>User Access Token</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_USERACCESSTOKENNOTIFY_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_USERACCESSTOKENNOTIFY_OUTPUT0_TOOLTIP</source>
+        <translation>User Access OAuth Token</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_APPACCESSTOKENNOTIFY_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_APPACCESSTOKENNOTIFY_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: AppAccessTokenNotify</comment>
+        <translation>AppAccessTokenNotify</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_APPACCESSTOKENNOTIFY_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_APPACCESSTOKENNOTIFY_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_APPACCESSTOKENNOTIFY_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_APPACCESSTOKENNOTIFY_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_APPACCESSTOKENNOTIFY_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_APPACCESSTOKENNOTIFY_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_APPACCESSTOKENNOTIFY_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_APPACCESSTOKENNOTIFY_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_APPACCESSTOKENNOTIFY_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_APPACCESSTOKENNOTIFY_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_APPACCESSTOKENNOTIFY_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_APPACCESSTOKENNOTIFY_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_APPACCESSTOKENNOTIFY_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_APPACCESSTOKENNOTIFY_OUTPUT0_NAME</source>
+        <comment>Simple Type: String C++ Type: const AZStd::basic_string&lt;char, AZStd::char_traits&lt;char&gt;, alloc</comment>
+        <translation>App Access Token</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_APPACCESSTOKENNOTIFY_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_APPACCESSTOKENNOTIFY_OUTPUT0_TOOLTIP</source>
+        <translation>App Access OAuth Token</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONANALYTICS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONANALYTICS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetExtensionAnalytics</comment>
+        <translation>OnGetExtensionAnalytics</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONANALYTICS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONANALYTICS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONANALYTICS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONANALYTICS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONANALYTICS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONANALYTICS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONANALYTICS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONANALYTICS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONANALYTICS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONANALYTICS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONANALYTICS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONANALYTICS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONANALYTICS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONANALYTICS_OUTPUT0_NAME</source>
+        <comment>Simple Type: C++ Type: const ExtensionAnalyticsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONANALYTICS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONANALYTICS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMEANALYTICS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMEANALYTICS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetGameAnalytics</comment>
+        <translation>OnGetGameAnalytics</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMEANALYTICS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMEANALYTICS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMEANALYTICS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMEANALYTICS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMEANALYTICS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMEANALYTICS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMEANALYTICS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMEANALYTICS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMEANALYTICS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMEANALYTICS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMEANALYTICS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMEANALYTICS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMEANALYTICS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMEANALYTICS_OUTPUT0_NAME</source>
+        <comment>Simple Type: C++ Type: const GameAnalyticsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMEANALYTICS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMEANALYTICS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBITSLEADERBOARD_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBITSLEADERBOARD_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetBitsLeaderboard</comment>
+        <translation>OnGetBitsLeaderboard</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBITSLEADERBOARD_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBITSLEADERBOARD_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBITSLEADERBOARD_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBITSLEADERBOARD_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBITSLEADERBOARD_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBITSLEADERBOARD_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBITSLEADERBOARD_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBITSLEADERBOARD_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBITSLEADERBOARD_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBITSLEADERBOARD_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBITSLEADERBOARD_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBITSLEADERBOARD_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBITSLEADERBOARD_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBITSLEADERBOARD_OUTPUT0_NAME</source>
+        <comment>Simple Type: C++ Type: const BitsLeaderboardResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBITSLEADERBOARD_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBITSLEADERBOARD_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONTRANSACTIONS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONTRANSACTIONS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetExtensionTransactions</comment>
+        <translation>OnGetExtensionTransactions</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONTRANSACTIONS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONTRANSACTIONS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONTRANSACTIONS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONTRANSACTIONS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONTRANSACTIONS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONTRANSACTIONS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONTRANSACTIONS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONTRANSACTIONS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONTRANSACTIONS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONTRANSACTIONS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONTRANSACTIONS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONTRANSACTIONS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONTRANSACTIONS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONTRANSACTIONS_OUTPUT0_NAME</source>
+        <comment>Simple Type: ?? C++ Type: const ExtensionTransactionsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONTRANSACTIONS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETEXTENSIONTRANSACTIONS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATECLIP_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATECLIP_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnCreateClip</comment>
+        <translation>OnCreateClip</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATECLIP_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATECLIP_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATECLIP_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATECLIP_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATECLIP_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATECLIP_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATECLIP_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATECLIP_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATECLIP_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATECLIP_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATECLIP_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATECLIP_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATECLIP_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATECLIP_OUTPUT0_NAME</source>
+        <comment>Simple Type: `? C++ Type: const CreateClipResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATECLIP_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATECLIP_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCLIPS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCLIPS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetClips</comment>
+        <translation>OnGetClips</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCLIPS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCLIPS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCLIPS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCLIPS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCLIPS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCLIPS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCLIPS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCLIPS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCLIPS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCLIPS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCLIPS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCLIPS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCLIPS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCLIPS_OUTPUT0_NAME</source>
+        <comment>Simple Type: GetClipsResult C++ Type: const GetClipsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCLIPS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCLIPS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEENTITLEMENTGRANTSUPLOADURL_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEENTITLEMENTGRANTSUPLOADURL_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnCreateEntitlementGrantsUploadURL</comment>
+        <translation>OnCreateEntitlementGrantsUploadURL</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEENTITLEMENTGRANTSUPLOADURL_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEENTITLEMENTGRANTSUPLOADURL_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEENTITLEMENTGRANTSUPLOADURL_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEENTITLEMENTGRANTSUPLOADURL_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEENTITLEMENTGRANTSUPLOADURL_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEENTITLEMENTGRANTSUPLOADURL_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEENTITLEMENTGRANTSUPLOADURL_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEENTITLEMENTGRANTSUPLOADURL_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEENTITLEMENTGRANTSUPLOADURL_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEENTITLEMENTGRANTSUPLOADURL_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEENTITLEMENTGRANTSUPLOADURL_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEENTITLEMENTGRANTSUPLOADURL_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEENTITLEMENTGRANTSUPLOADURL_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEENTITLEMENTGRANTSUPLOADURL_OUTPUT0_NAME</source>
+        <comment>Simple Type: ?? C++ Type: const EntitlementsGrantUploadResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEENTITLEMENTGRANTSUPLOADURL_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEENTITLEMENTGRANTSUPLOADURL_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETTOPGAMES_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETTOPGAMES_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetTopGames</comment>
+        <translation>OnGetTopGames</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETTOPGAMES_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETTOPGAMES_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETTOPGAMES_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETTOPGAMES_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETTOPGAMES_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETTOPGAMES_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETTOPGAMES_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETTOPGAMES_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETTOPGAMES_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETTOPGAMES_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETTOPGAMES_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETTOPGAMES_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETTOPGAMES_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETTOPGAMES_OUTPUT0_NAME</source>
+        <comment>Simple Type: ?? C++ Type: const GetTopGamesResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETTOPGAMES_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETTOPGAMES_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMES_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMES_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetGames</comment>
+        <translation>OnGetGames</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMES_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMES_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMES_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMES_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMES_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMES_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMES_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMES_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMES_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMES_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMES_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMES_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMES_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMES_OUTPUT0_NAME</source>
+        <comment>Simple Type: GetGamesResult C++ Type: const GetGamesResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMES_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETGAMES_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCHECKAUTOMODSTATUS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCHECKAUTOMODSTATUS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnCheckAutoModStatus</comment>
+        <translation>OnCheckAutoModStatus</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCHECKAUTOMODSTATUS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCHECKAUTOMODSTATUS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCHECKAUTOMODSTATUS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCHECKAUTOMODSTATUS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCHECKAUTOMODSTATUS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCHECKAUTOMODSTATUS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCHECKAUTOMODSTATUS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCHECKAUTOMODSTATUS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCHECKAUTOMODSTATUS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCHECKAUTOMODSTATUS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCHECKAUTOMODSTATUS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCHECKAUTOMODSTATUS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCHECKAUTOMODSTATUS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCHECKAUTOMODSTATUS_OUTPUT0_NAME</source>
+        <comment>Simple Type: C++ Type: const CheckAutoModResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCHECKAUTOMODSTATUS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCHECKAUTOMODSTATUS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDEVENTS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDEVENTS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetBannedEvents</comment>
+        <translation>OnGetBannedEvents</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDEVENTS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDEVENTS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDEVENTS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDEVENTS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDEVENTS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDEVENTS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDEVENTS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDEVENTS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDEVENTS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDEVENTS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDEVENTS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDEVENTS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDEVENTS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDEVENTS_OUTPUT0_NAME</source>
+        <comment>Simple Type: C++ Type: const GetBannedEventsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDEVENTS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDEVENTS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDUSERS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDUSERS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetBannedUsers</comment>
+        <translation>OnGetBannedUsers</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDUSERS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDUSERS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDUSERS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDUSERS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDUSERS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDUSERS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDUSERS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDUSERS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDUSERS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDUSERS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDUSERS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDUSERS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDUSERS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDUSERS_OUTPUT0_NAME</source>
+        <comment>Simple Type: C++ Type: const GetBannedUsersResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDUSERS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBANNEDUSERS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATORS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATORS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetModerators</comment>
+        <translation>OnGetModerators</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATORS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATORS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATORS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATORS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATORS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATORS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATORS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATORS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATORS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATORS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATORS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATORS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATORS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATORS_OUTPUT0_NAME</source>
+        <comment>Simple Type: C++ Type: const GetModeratorsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATORS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATORS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATOREVENTS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATOREVENTS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetModeratorEvents</comment>
+        <translation>OnGetModeratorEvents</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATOREVENTS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATOREVENTS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATOREVENTS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATOREVENTS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATOREVENTS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATOREVENTS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATOREVENTS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATOREVENTS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATOREVENTS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATOREVENTS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATOREVENTS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATOREVENTS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATOREVENTS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATOREVENTS_OUTPUT0_NAME</source>
+        <comment>Simple Type: ?? C++ Type: const GetModeratorEventsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATOREVENTS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETMODERATOREVENTS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetStreams</comment>
+        <translation>OnGetStreams</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMS_OUTPUT0_NAME</source>
+        <comment>Simple Type: `? C++ Type: const GetStreamsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATESTREAMMARKER_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATESTREAMMARKER_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnCreateStreamMarker</comment>
+        <translation>OnCreateStreamMarker</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATESTREAMMARKER_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATESTREAMMARKER_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATESTREAMMARKER_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATESTREAMMARKER_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATESTREAMMARKER_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATESTREAMMARKER_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATESTREAMMARKER_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATESTREAMMARKER_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATESTREAMMARKER_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATESTREAMMARKER_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATESTREAMMARKER_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATESTREAMMARKER_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATESTREAMMARKER_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATESTREAMMARKER_OUTPUT0_NAME</source>
+        <comment>Simple Type: ?? C++ Type: const CreateStreamMarkerResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATESTREAMMARKER_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATESTREAMMARKER_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMMARKERS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMMARKERS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetStreamMarkers</comment>
+        <translation>OnGetStreamMarkers</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMMARKERS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMMARKERS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMMARKERS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMMARKERS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMMARKERS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMMARKERS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMMARKERS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMMARKERS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMMARKERS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMMARKERS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMMARKERS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMMARKERS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMMARKERS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMMARKERS_OUTPUT0_NAME</source>
+        <comment>Simple Type: ?? C++ Type: const GetStreamMarkersResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMMARKERS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMMARKERS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBROADCASTERSUBSCRIPTIONS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBROADCASTERSUBSCRIPTIONS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetBroadcasterSubscriptions</comment>
+        <translation>OnGetBroadcasterSubscriptions</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBROADCASTERSUBSCRIPTIONS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBROADCASTERSUBSCRIPTIONS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBROADCASTERSUBSCRIPTIONS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBROADCASTERSUBSCRIPTIONS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBROADCASTERSUBSCRIPTIONS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBROADCASTERSUBSCRIPTIONS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBROADCASTERSUBSCRIPTIONS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBROADCASTERSUBSCRIPTIONS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBROADCASTERSUBSCRIPTIONS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBROADCASTERSUBSCRIPTIONS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBROADCASTERSUBSCRIPTIONS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBROADCASTERSUBSCRIPTIONS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBROADCASTERSUBSCRIPTIONS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBROADCASTERSUBSCRIPTIONS_OUTPUT0_NAME</source>
+        <comment>Simple Type:  C++ Type: const GetBroadcasterSubscriptionsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETBROADCASTERSUBSCRIPTIONS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETBROADCASTERSUBSCRIPTIONS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETALLSTREAMTAGS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETALLSTREAMTAGS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetAllStreamTags</comment>
+        <translation>OnGetAllStreamTags</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETALLSTREAMTAGS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETALLSTREAMTAGS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETALLSTREAMTAGS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETALLSTREAMTAGS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETALLSTREAMTAGS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETALLSTREAMTAGS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETALLSTREAMTAGS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETALLSTREAMTAGS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETALLSTREAMTAGS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETALLSTREAMTAGS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETALLSTREAMTAGS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETALLSTREAMTAGS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETALLSTREAMTAGS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETALLSTREAMTAGS_OUTPUT0_NAME</source>
+        <comment>Simple Type: ?? C++ Type: const GetAllStreamTagsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETALLSTREAMTAGS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETALLSTREAMTAGS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMTAGS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMTAGS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetStreamTags</comment>
+        <translation>OnGetStreamTags</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMTAGS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMTAGS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMTAGS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMTAGS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMTAGS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMTAGS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMTAGS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMTAGS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMTAGS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMTAGS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMTAGS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMTAGS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMTAGS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMTAGS_OUTPUT0_NAME</source>
+        <comment>Simple Type: ?? C++ Type: const GetStreamTagsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMTAGS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMTAGS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnReplaceStreamTags</comment>
+        <translation>OnReplaceStreamTags</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_OUTPUT0_NAME</source>
+        <comment>Simple Type: `? C++ Type: const ReceiptID&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_OUTPUT1_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_OUTPUT1_NAME</source>
+        <comment>Simple Type: `? C++ Type: const TwitchApi::ResultCode&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_OUTPUT1_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREPLACESTREAMTAGS_OUTPUT1_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetUsers</comment>
+        <translation>OnGetUsers</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERS_OUTPUT0_NAME</source>
+        <comment>Simple Type: GetUsersResult C++ Type: const GetUsersResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERSFOLLOWS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERSFOLLOWS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetUsersFollows</comment>
+        <translation>OnGetUsersFollows</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERSFOLLOWS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERSFOLLOWS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERSFOLLOWS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERSFOLLOWS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERSFOLLOWS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERSFOLLOWS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERSFOLLOWS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERSFOLLOWS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERSFOLLOWS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERSFOLLOWS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERSFOLLOWS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERSFOLLOWS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERSFOLLOWS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERSFOLLOWS_OUTPUT0_NAME</source>
+        <comment>Simple Type: `? C++ Type: const GetUsersFollowsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERSFOLLOWS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERSFOLLOWS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSER_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSER_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnUpdateUser</comment>
+        <translation>OnUpdateUser</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSER_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSER_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSER_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSER_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSER_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSER_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSER_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSER_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSER_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSER_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSER_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSER_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSER_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSER_OUTPUT0_NAME</source>
+        <comment>Simple Type: GetUsersResult C++ Type: const GetUsersResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSER_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSER_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSEREXTENSIONS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSEREXTENSIONS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetUserExtensions</comment>
+        <translation>OnGetUserExtensions</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSEREXTENSIONS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSEREXTENSIONS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSEREXTENSIONS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSEREXTENSIONS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSEREXTENSIONS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSEREXTENSIONS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSEREXTENSIONS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSEREXTENSIONS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSEREXTENSIONS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSEREXTENSIONS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSEREXTENSIONS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSEREXTENSIONS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSEREXTENSIONS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSEREXTENSIONS_OUTPUT0_NAME</source>
+        <comment>Simple Type: `? C++ Type: const GetUserExtensionsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSEREXTENSIONS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSEREXTENSIONS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERACTIVEEXTENSIONS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERACTIVEEXTENSIONS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetUserActiveExtensions</comment>
+        <translation>OnGetUserActiveExtensions</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERACTIVEEXTENSIONS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERACTIVEEXTENSIONS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERACTIVEEXTENSIONS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERACTIVEEXTENSIONS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERACTIVEEXTENSIONS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERACTIVEEXTENSIONS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERACTIVEEXTENSIONS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERACTIVEEXTENSIONS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERACTIVEEXTENSIONS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERACTIVEEXTENSIONS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERACTIVEEXTENSIONS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERACTIVEEXTENSIONS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERACTIVEEXTENSIONS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERACTIVEEXTENSIONS_OUTPUT0_NAME</source>
+        <comment>Simple Type: ?? C++ Type: const GetUserActiveExtensionsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERACTIVEEXTENSIONS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERACTIVEEXTENSIONS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSEREXTENSIONS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSEREXTENSIONS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnUpdateUserExtensions</comment>
+        <translation>OnUpdateUserExtensions</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSEREXTENSIONS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSEREXTENSIONS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSEREXTENSIONS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSEREXTENSIONS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSEREXTENSIONS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSEREXTENSIONS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSEREXTENSIONS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSEREXTENSIONS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSEREXTENSIONS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSEREXTENSIONS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSEREXTENSIONS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSEREXTENSIONS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSEREXTENSIONS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSEREXTENSIONS_OUTPUT0_NAME</source>
+        <comment>Simple Type: ?? C++ Type: const GetUserActiveExtensionsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSEREXTENSIONS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEUSEREXTENSIONS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETVIDEOS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETVIDEOS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetVideos</comment>
+        <translation>OnGetVideos</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETVIDEOS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETVIDEOS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETVIDEOS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETVIDEOS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETVIDEOS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETVIDEOS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETVIDEOS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETVIDEOS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETVIDEOS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETVIDEOS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETVIDEOS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETVIDEOS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETVIDEOS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETVIDEOS_OUTPUT0_NAME</source>
+        <comment>Simple Type: GetVideosResult C++ Type: const GetVideosResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETVIDEOS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETVIDEOS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETWEBHOOKSUBSCRIPTIONS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETWEBHOOKSUBSCRIPTIONS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetWebhookSubscriptions</comment>
+        <translation>OnGetWebhookSubscriptions</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETWEBHOOKSUBSCRIPTIONS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETWEBHOOKSUBSCRIPTIONS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETWEBHOOKSUBSCRIPTIONS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETWEBHOOKSUBSCRIPTIONS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETWEBHOOKSUBSCRIPTIONS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETWEBHOOKSUBSCRIPTIONS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETWEBHOOKSUBSCRIPTIONS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETWEBHOOKSUBSCRIPTIONS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETWEBHOOKSUBSCRIPTIONS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETWEBHOOKSUBSCRIPTIONS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETWEBHOOKSUBSCRIPTIONS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETWEBHOOKSUBSCRIPTIONS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETWEBHOOKSUBSCRIPTIONS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETWEBHOOKSUBSCRIPTIONS_OUTPUT0_NAME</source>
+        <comment>Simple Type: ? C++ Type: const GetWebhookSubscriptionsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETWEBHOOKSUBSCRIPTIONS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETWEBHOOKSUBSCRIPTIONS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSTARTCOMMERCIAL_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSTARTCOMMERCIAL_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnStartCommercial</comment>
+        <translation>OnStartCommercial</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSTARTCOMMERCIAL_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSTARTCOMMERCIAL_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSTARTCOMMERCIAL_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSTARTCOMMERCIAL_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSTARTCOMMERCIAL_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSTARTCOMMERCIAL_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSTARTCOMMERCIAL_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSTARTCOMMERCIAL_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSTARTCOMMERCIAL_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSTARTCOMMERCIAL_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSTARTCOMMERCIAL_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSTARTCOMMERCIAL_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSTARTCOMMERCIAL_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSTARTCOMMERCIAL_OUTPUT0_NAME</source>
+        <comment>Simple Type: CommercialResult C++ Type: const CommercialResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSTARTCOMMERCIAL_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSTARTCOMMERCIAL_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHEERMOTES_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHEERMOTES_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetCheermotes</comment>
+        <translation>OnGetCheermotes</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHEERMOTES_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHEERMOTES_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHEERMOTES_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHEERMOTES_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHEERMOTES_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHEERMOTES_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHEERMOTES_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHEERMOTES_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHEERMOTES_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHEERMOTES_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHEERMOTES_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHEERMOTES_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHEERMOTES_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHEERMOTES_OUTPUT0_NAME</source>
+        <comment>Simple Type: CheermotesResult C++ Type: const CheermotesResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHEERMOTES_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHEERMOTES_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELINFORMATION_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELINFORMATION_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetChannelInformation</comment>
+        <translation>OnGetChannelInformation</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELINFORMATION_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELINFORMATION_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELINFORMATION_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELINFORMATION_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELINFORMATION_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELINFORMATION_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELINFORMATION_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELINFORMATION_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELINFORMATION_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELINFORMATION_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELINFORMATION_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELINFORMATION_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELINFORMATION_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELINFORMATION_OUTPUT0_NAME</source>
+        <comment>Simple Type: ChannelInformationResult C++ Type: const ChannelInformationResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELINFORMATION_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELINFORMATION_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnModifyChannelInformation</comment>
+        <translation>OnModifyChannelInformation</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_OUTPUT0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: const ReceiptID&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_OUTPUT1_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_OUTPUT1_NAME</source>
+        <comment>Simple Type: Invalid BehaviorContext::Class name C++ Type: const TwitchApi::ResultCode&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_OUTPUT1_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONMODIFYCHANNELINFORMATION_OUTPUT1_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELEDITORS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELEDITORS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetChannelEditors</comment>
+        <translation>OnGetChannelEditors</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELEDITORS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELEDITORS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELEDITORS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELEDITORS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELEDITORS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELEDITORS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELEDITORS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELEDITORS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELEDITORS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELEDITORS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELEDITORS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELEDITORS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELEDITORS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELEDITORS_OUTPUT0_NAME</source>
+        <comment>Simple Type: ChannelEditorsResult C++ Type: const ChannelEditorsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELEDITORS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCHANNELEDITORS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATECUSTOMREWARDS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATECUSTOMREWARDS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnCreateCustomRewards</comment>
+        <translation>OnCreateCustomRewards</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATECUSTOMREWARDS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATECUSTOMREWARDS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATECUSTOMREWARDS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATECUSTOMREWARDS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATECUSTOMREWARDS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATECUSTOMREWARDS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATECUSTOMREWARDS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATECUSTOMREWARDS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATECUSTOMREWARDS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATECUSTOMREWARDS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATECUSTOMREWARDS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATECUSTOMREWARDS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATECUSTOMREWARDS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATECUSTOMREWARDS_OUTPUT0_NAME</source>
+        <comment>Simple Type: CustomRewardsResult C++ Type: const CustomRewardsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATECUSTOMREWARDS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATECUSTOMREWARDS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnDeleteCustomReward</comment>
+        <translation>OnDeleteCustomReward</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_OUTPUT0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: const ReceiptID&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_OUTPUT1_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_OUTPUT1_NAME</source>
+        <comment>Simple Type: Invalid BehaviorContext::Class name C++ Type: const TwitchApi::ResultCode&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_OUTPUT1_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETECUSTOMREWARD_OUTPUT1_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARD_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARD_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetCustomReward</comment>
+        <translation>OnGetCustomReward</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARD_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARD_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARD_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARD_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARD_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARD_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARD_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARD_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARD_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARD_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARD_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARD_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARD_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARD_OUTPUT0_NAME</source>
+        <comment>Simple Type: CustomRewardsResult C++ Type: const CustomRewardsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARD_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARD_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARDREDEMPTION_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARDREDEMPTION_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetCustomRewardRedemption</comment>
+        <translation>OnGetCustomRewardRedemption</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARDREDEMPTION_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARDREDEMPTION_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARDREDEMPTION_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARDREDEMPTION_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARDREDEMPTION_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARDREDEMPTION_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARDREDEMPTION_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARDREDEMPTION_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARDREDEMPTION_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARDREDEMPTION_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARDREDEMPTION_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARDREDEMPTION_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARDREDEMPTION_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARDREDEMPTION_OUTPUT0_NAME</source>
+        <comment>Simple Type: CustomRewardsRedemptionResult C++ Type: const CustomRewardsRedemptionResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARDREDEMPTION_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCUSTOMREWARDREDEMPTION_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATECUSTOMREWARD_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATECUSTOMREWARD_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnUpdateCustomReward</comment>
+        <translation>OnUpdateCustomReward</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATECUSTOMREWARD_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATECUSTOMREWARD_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATECUSTOMREWARD_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATECUSTOMREWARD_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATECUSTOMREWARD_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATECUSTOMREWARD_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATECUSTOMREWARD_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATECUSTOMREWARD_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATECUSTOMREWARD_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATECUSTOMREWARD_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATECUSTOMREWARD_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATECUSTOMREWARD_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATECUSTOMREWARD_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATECUSTOMREWARD_OUTPUT0_NAME</source>
+        <comment>Simple Type: CustomRewardsResult C++ Type: const CustomRewardsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATECUSTOMREWARD_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATECUSTOMREWARD_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEREDEMPTIONSTATUS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEREDEMPTIONSTATUS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnUpdateRedemptionStatus</comment>
+        <translation>OnUpdateRedemptionStatus</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEREDEMPTIONSTATUS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEREDEMPTIONSTATUS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEREDEMPTIONSTATUS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEREDEMPTIONSTATUS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEREDEMPTIONSTATUS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEREDEMPTIONSTATUS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEREDEMPTIONSTATUS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEREDEMPTIONSTATUS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEREDEMPTIONSTATUS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEREDEMPTIONSTATUS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEREDEMPTIONSTATUS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEREDEMPTIONSTATUS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEREDEMPTIONSTATUS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEREDEMPTIONSTATUS_OUTPUT0_NAME</source>
+        <comment>Simple Type: CustomRewardsRedemptionResult C++ Type: const CustomRewardsRedemptionResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEREDEMPTIONSTATUS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUPDATEREDEMPTIONSTATUS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCODESTATUS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCODESTATUS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetCodeStatus</comment>
+        <translation>OnGetCodeStatus</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCODESTATUS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCODESTATUS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCODESTATUS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCODESTATUS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCODESTATUS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCODESTATUS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCODESTATUS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCODESTATUS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCODESTATUS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCODESTATUS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCODESTATUS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCODESTATUS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCODESTATUS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCODESTATUS_OUTPUT0_NAME</source>
+        <comment>Simple Type: CodeStatusResult C++ Type: const CodeStatusResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETCODESTATUS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETCODESTATUS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETDROPSENTITLEMENTS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETDROPSENTITLEMENTS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetDropsEntitlements</comment>
+        <translation>OnGetDropsEntitlements</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETDROPSENTITLEMENTS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETDROPSENTITLEMENTS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETDROPSENTITLEMENTS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETDROPSENTITLEMENTS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETDROPSENTITLEMENTS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETDROPSENTITLEMENTS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETDROPSENTITLEMENTS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETDROPSENTITLEMENTS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETDROPSENTITLEMENTS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETDROPSENTITLEMENTS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETDROPSENTITLEMENTS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETDROPSENTITLEMENTS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETDROPSENTITLEMENTS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETDROPSENTITLEMENTS_OUTPUT0_NAME</source>
+        <comment>Simple Type: DropsEntitlementsResult C++ Type: const DropsEntitlementsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETDROPSENTITLEMENTS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETDROPSENTITLEMENTS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREDEEMCODE_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREDEEMCODE_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnRedeemCode</comment>
+        <translation>OnRedeemCode</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREDEEMCODE_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREDEEMCODE_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREDEEMCODE_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREDEEMCODE_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREDEEMCODE_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREDEEMCODE_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREDEEMCODE_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREDEEMCODE_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREDEEMCODE_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREDEEMCODE_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREDEEMCODE_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREDEEMCODE_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREDEEMCODE_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREDEEMCODE_OUTPUT0_NAME</source>
+        <comment>Simple Type: CodeStatusResult C++ Type: const CodeStatusResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONREDEEMCODE_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONREDEEMCODE_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETHYPETRAINEVENTS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETHYPETRAINEVENTS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetHypeTrainEvents</comment>
+        <translation>OnGetHypeTrainEvents</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETHYPETRAINEVENTS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETHYPETRAINEVENTS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETHYPETRAINEVENTS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETHYPETRAINEVENTS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETHYPETRAINEVENTS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETHYPETRAINEVENTS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETHYPETRAINEVENTS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETHYPETRAINEVENTS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETHYPETRAINEVENTS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETHYPETRAINEVENTS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETHYPETRAINEVENTS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETHYPETRAINEVENTS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETHYPETRAINEVENTS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETHYPETRAINEVENTS_OUTPUT0_NAME</source>
+        <comment>Simple Type: HypeTrainEventsResult C++ Type: const HypeTrainEventsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETHYPETRAINEVENTS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETHYPETRAINEVENTS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCATEGORIES_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCATEGORIES_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnSearchCategories</comment>
+        <translation>OnSearchCategories</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCATEGORIES_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCATEGORIES_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCATEGORIES_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCATEGORIES_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCATEGORIES_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCATEGORIES_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCATEGORIES_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCATEGORIES_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCATEGORIES_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCATEGORIES_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCATEGORIES_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCATEGORIES_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCATEGORIES_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCATEGORIES_OUTPUT0_NAME</source>
+        <comment>Simple Type: SearchCategoriesResult C++ Type: const SearchCategoriesResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCATEGORIES_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCATEGORIES_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCHANNELS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCHANNELS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnSearchChannels</comment>
+        <translation>OnSearchChannels</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCHANNELS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCHANNELS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCHANNELS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCHANNELS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCHANNELS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCHANNELS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCHANNELS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCHANNELS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCHANNELS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCHANNELS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCHANNELS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCHANNELS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCHANNELS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCHANNELS_OUTPUT0_NAME</source>
+        <comment>Simple Type: SearchChannelsResult C++ Type: const SearchChannelsResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCHANNELS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONSEARCHCHANNELS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMKEY_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMKEY_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetStreamKey</comment>
+        <translation>OnGetStreamKey</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMKEY_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMKEY_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMKEY_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMKEY_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMKEY_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMKEY_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMKEY_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMKEY_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMKEY_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMKEY_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMKEY_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMKEY_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMKEY_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMKEY_OUTPUT0_NAME</source>
+        <comment>Simple Type: StreamKeyResult C++ Type: const StreamKeyResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMKEY_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETSTREAMKEY_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnCreateUserFollows</comment>
+        <translation>OnCreateUserFollows</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_OUTPUT0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: const ReceiptID&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_OUTPUT1_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_OUTPUT1_NAME</source>
+        <comment>Simple Type: Invalid BehaviorContext::Class name C++ Type: const TwitchApi::ResultCode&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_OUTPUT1_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONCREATEUSERFOLLOWS_OUTPUT1_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnDeleteUserFollows</comment>
+        <translation>OnDeleteUserFollows</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_OUTPUT0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: const ReceiptID&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_OUTPUT1_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_OUTPUT1_NAME</source>
+        <comment>Simple Type: Invalid BehaviorContext::Class name C++ Type: const TwitchApi::ResultCode&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_OUTPUT1_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEUSERFOLLOWS_OUTPUT1_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERBLOCKLIST_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERBLOCKLIST_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnGetUserBlockList</comment>
+        <translation>OnGetUserBlockList</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERBLOCKLIST_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERBLOCKLIST_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERBLOCKLIST_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERBLOCKLIST_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERBLOCKLIST_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERBLOCKLIST_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERBLOCKLIST_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERBLOCKLIST_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERBLOCKLIST_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERBLOCKLIST_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERBLOCKLIST_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERBLOCKLIST_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERBLOCKLIST_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERBLOCKLIST_OUTPUT0_NAME</source>
+        <comment>Simple Type: UserBlockListResult C++ Type: const UserBlockListResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERBLOCKLIST_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONGETUSERBLOCKLIST_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnBlockUser</comment>
+        <translation>OnBlockUser</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_OUTPUT0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: const ReceiptID&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_OUTPUT1_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_OUTPUT1_NAME</source>
+        <comment>Simple Type: Invalid BehaviorContext::Class name C++ Type: const TwitchApi::ResultCode&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_OUTPUT1_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONBLOCKUSER_OUTPUT1_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnUnblockUser</comment>
+        <translation>OnUnblockUser</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_OUTPUT0_NAME</source>
+        <comment>Simple Type: TwitchApiReceiptID C++ Type: const ReceiptID&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_OUTPUT1_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_OUTPUT1_NAME</source>
+        <comment>Simple Type: Invalid BehaviorContext::Class name C++ Type: const TwitchApi::ResultCode&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_OUTPUT1_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONUNBLOCKUSER_OUTPUT1_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEVIDEOS_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEVIDEOS_NAME</source>
+        <comment>Class/Bus: TwitchApiNotifyBus  Event/Method: OnDeleteVideos</comment>
+        <translation>OnDeleteVideos</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEVIDEOS_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEVIDEOS_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEVIDEOS_CATEGORY">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEVIDEOS_CATEGORY</source>
+        <translation>TwitchApi</translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEVIDEOS_OUT_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEVIDEOS_OUT_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEVIDEOS_OUT_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEVIDEOS_OUT_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEVIDEOS_IN_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEVIDEOS_IN_NAME</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEVIDEOS_IN_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEVIDEOS_IN_TOOLTIP</source>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEVIDEOS_OUTPUT0_NAME">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEVIDEOS_OUTPUT0_NAME</source>
+        <comment>Simple Type: DeleteVideosResult C++ Type: const DeleteVideosResult&amp;</comment>
+        <translation></translation>
+    </message>
+    <message id="HANDLER_TWITCHAPINOTIFYBUS_ONDELETEVIDEOS_OUTPUT0_TOOLTIP">
+        <source>HANDLER_TWITCHAPINOTIFYBUS_ONDELETEVIDEOS_OUTPUT0_TOOLTIP</source>
+        <translation></translation>
+    </message>
 </context>
 </TS>
